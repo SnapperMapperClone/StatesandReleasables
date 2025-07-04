@@ -9,6 +9,7 @@ state = {
 
 		owner = ENG
 		add_core_of = CAN
+		add_core_of = NFL
 
 		buildings = {
 			infrastructure = 2

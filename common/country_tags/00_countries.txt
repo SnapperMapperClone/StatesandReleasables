@@ -346,5 +346,11 @@ TEX = "countries/Texas.txt"
 ASK = "countries/Alaska.txt"
 NYC = "countries/New York.txt"
 CAL = "countries/California.txt"
+CSC = "countries/Cascadia.txt"
+
+ONT = "countries/Ontario.txt"
+NFL = "countries/Newfoundland and Labrador.txt"
+CAW = "countries/Western Canada.txt"
+MAR = "countries/Maritimes.txt"
 
 
