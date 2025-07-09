@@ -925,7 +925,7 @@ YUC = {
 }
 RIG = {
 	color = rgb { 0 0 128 }
-	color_ui = rgb { 0 0 51 }
+	color_ui = rgb { 0 0 128 }
 }
 QUE = {
 	color = rgb { 0 72 175 }
@@ -1150,4 +1150,16 @@ ONT = {
 CAW = {
 	color = rgb { 193  103  103 }
 	color_ui = rgb { 155 62 51 }
+}
+CHP = {
+	color = rgb { 42 84 168 }
+	color_ui = rgb { 42 84 168 }
+}
+OAX = {
+	color = rgb { 134 125 67 }
+	color_ui = rgb { 134 125 67 }
+}
+SON = {
+	color = rgb { 128 43 128 }
+	color_ui = rgb { 51 0 51 }
 }

@@ -353,4 +353,7 @@ NFL = "countries/Newfoundland and Labrador.txt"
 CAW = "countries/Western Canada.txt"
 MAR = "countries/Maritimes.txt"
 
+SON = "countries/Sonora.txt"
+CHP = "countries/Chiapas.txt"
+OAX = "countries/Oaxaca.txt"
 
