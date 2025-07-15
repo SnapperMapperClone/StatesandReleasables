@@ -357,3 +357,12 @@ SON = "countries/Sonora.txt"
 CHP = "countries/Chiapas.txt"
 OAX = "countries/Oaxaca.txt"
 
+AMA = "countries/Amazonas.txt"
+GOY = "countries/Goyaz.txt"
+EQU = "countries/Equator.txt"
+BHA = "countries/Bahia.txt"
+VRC = "countries/Vera Cruz.txt"
+SAO = "countries/Sao Paulo.txt"
+PIR = "countries/Piratini.txt"
+
+ARC = "countries/Araucania.txt"

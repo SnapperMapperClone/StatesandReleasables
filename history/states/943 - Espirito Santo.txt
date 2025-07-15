@@ -14,7 +14,8 @@ state = {
 
 		owner = BRA
 		add_core_of = BRA
-
+		add_core_of = VRC
+		
 		victory_points = {
 			10999 5
 		}

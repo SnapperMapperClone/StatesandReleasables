@@ -21,6 +21,7 @@ state={
 			}
 		}
 		add_core_of = BRA
+		add_core_of = BHA
 		victory_points = {
 			10946 1 
 		}

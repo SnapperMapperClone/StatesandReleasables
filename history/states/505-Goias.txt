@@ -15,7 +15,8 @@ state = {
 
 		owner = BRA
 		add_core_of = BRA
-
+		add_core_of = GOY
+		
 		buildings = {
 			infrastructure = 1
 		}

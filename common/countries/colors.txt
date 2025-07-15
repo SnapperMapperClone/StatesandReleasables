@@ -118,7 +118,7 @@ AFG = {
 	color_ui = rgb { 83 208 217 }
 }
 ARG = {
-	color = rgb { 145 157 236 }
+	color = rgb { 155 197 236 }
 	color_ui = rgb { 189 204 255 }
 }
 AST = {
@@ -134,7 +134,7 @@ BOL = {
 	color_ui = rgb { 255 234 177 }
 }
 BRA = {
-	color = rgb { 76 145 63 }
+	color = rgb { 76 185 63 }
 	color_ui = rgb { 99 189 82 }
 }
 CAN = {
@@ -146,11 +146,11 @@ CHI = {
 	color_ui = hsv { 0.18 0.3 0.9 }
 }
 CHL = {
-	color = rgb { 155 101 107 }
+	color = rgb { 13 61 107 }
 	color_ui = rgb { 202 131 139 }
 }
 COL = {
-	color = rgb { 222 187 91 }
+	color = rgb { 232 217 91 }
 	color_ui = rgb { 255 243 118 }
 }
 COS = {
@@ -218,7 +218,7 @@ PHI = {
 	color_ui = rgb { 198 169 248 }
 }
 PRU = {
-	color = rgb { 196 189 204 }
+	color = rgb { 216 89 104 }
 	color_ui = rgb { 255 246 255 }
 }
 SAF = {
@@ -246,7 +246,7 @@ URG = {
 	color_ui = rgb { 222 247 198 }
 }
 VEN = {
-	color = rgb { 171 190 152 }
+	color = rgb { 238 190 152 }
 	color_ui = rgb { 222 247 198 }
 }
 YUN = {
@@ -1162,4 +1162,36 @@ OAX = {
 SON = {
 	color = rgb { 128 43 128 }
 	color_ui = rgb { 51 0 51 }
+}
+AMA = {
+	color = rgb { 86 145 103 }
+	color_ui = rgb { 109 189 122 }
+}
+GOY = {
+	color = rgb { 72 24 12 }
+	color_ui = rgb { 60 20 10 }
+}
+EQU = {
+	color = rgb { 224 100 122 }
+	color_ui = rgb { 200 80 100 }
+}
+BHA = {
+	color = rgb { 55 30 153 }
+	color_ui = rgb { 60 40 160 }
+}
+VRC = {
+	color = rgb { 140 200 140 }
+	color_ui = rgb { 140 200 140 }
+}
+SAO = {
+	color = rgb { 34 34 17 }
+	color_ui = rgb { 35 35 20 }
+}
+PRT = {
+	color = rgb { 180 150 120 }
+	color_ui = rgb { 180 150 120 }
+}
+ARC = {
+	color = rgb { 53 170 170 }
+	color_ui = rgb { 50 170 170 }
 }

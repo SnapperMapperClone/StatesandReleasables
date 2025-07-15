@@ -16,7 +16,8 @@ state = {
 
 		owner = CHL
 		add_core_of = CHL
-
+		add_core_of = ARC
+		
 		buildings = {
 			infrastructure = 1
 			#dockyard = 1
