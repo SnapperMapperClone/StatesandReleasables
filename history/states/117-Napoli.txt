@@ -2,7 +2,7 @@
 state = {
 	id = 117
 	name = "STATE_117" # Campania
-	manpower = 4240000 # (Campania 3697k + Basilicato 543k )  # was 5333611 before Puglia state was added
+	manpower = 3696632 # (Campania 3697k + Basilicato 543k )  # was 5333611 before Puglia state was added
 	
 	state_category = city
 	resources = {
@@ -26,17 +26,11 @@ state = {
 			}
 		}
 		add_core_of = ITA
-		add_core_of = TTS
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 3
-			}
-		}
+		add_core_of = SIT
 	}
 
 	provinces = {
-		819 851 955 3958 3968 6972 9826 11803 9856
+		819 851 955 9826 11803 
 	}
 
 	local_supplies = 13.0 

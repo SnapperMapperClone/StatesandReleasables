@@ -10,9 +10,9 @@ state = {
 		}
 		owner = ITA
 		add_core_of = ITA
-		add_core_of = YUG
 		add_core_of = SLV
-		add_core_of = LBV
+		add_core_of = IST
+		add_core_of = FRL
 		buildings = {
 			infrastructure = 1
 			dockyard = 1
@@ -26,9 +26,9 @@ state = {
 	}
 
 	provinces = {
-		599 6626 11595 
+		6626 
 	}
-	manpower = 1038159 # was 1063159 before Istria was merged with Fiume (~25k pop added to new Istria state (Fiume + Pola)
+	manpower = 248307
 	buildings_max_level_factor = 1.000
 
 	local_supplies = 0.0 
