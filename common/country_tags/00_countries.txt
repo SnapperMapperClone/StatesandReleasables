@@ -366,3 +366,21 @@ SAO = "countries/Sao Paulo.txt"
 PIR = "countries/Piratini.txt"
 
 ARC = "countries/Araucania.txt"
+
+SRD = "countries/Sardinia.txt"
+SIC = "countries/Sicily.txt"
+VNC = "countries/Venice.txt"
+LOM = "countries/Lombardy.txt"
+EML = "countries/Emilia-Romagna.txt"
+IST = "countries/Trieste.txt"
+FRL = "countries/Friuli.txt"
+SUT = "countries/South Tyrol.txt"
+
+NIT = "countries/North Italy.txt"
+SIT = "countries/South Italy.txt"
+
+VAT = "countries/Vatican.txt"
+SMR = "countries/San Marino.txt"
+MNC = "countries/Monaco.txt"
+LIE = "countries/Liechtenstein.txt"
+ADR = "countries/Andorra.txt"

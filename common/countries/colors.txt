@@ -864,11 +864,11 @@ PAP = {
 	color_ui = rgb { 255 255 26 }
 }
 TOS = {
-	color = rgb { 255 128 128 }
-	color_ui = rgb { 204 0 0 }
+	color = rgb { 97 103 172 }
+	color_ui = rgb { 0 0 204 }
 }
 SPM = {
-	color = rgb { 0 255 255 }
+	color = rgb { 153 204 255 }
 	color_ui = rgb { 0 179 179 }
 }
 TTS = {
@@ -1187,11 +1187,71 @@ SAO = {
 	color = rgb { 34 34 17 }
 	color_ui = rgb { 35 35 20 }
 }
-PRT = {
+PIR = {
 	color = rgb { 180 150 120 }
 	color_ui = rgb { 180 150 120 }
 }
 ARC = {
 	color = rgb { 53 170 170 }
 	color_ui = rgb { 50 170 170 }
+}
+NIT = {
+	color = rgb { 77 107 43 }
+	color_ui = rgb { 87 165 82 }
+}
+SIT = {
+	color = rgb { 47 147 83 }
+	color_ui = rgb { 87 165 82 }
+}
+VNC = {
+	color = rgb { 179 41 25 }
+	color_ui = rgb { 102 0 0 }
+}
+LOM = {
+	color = rgb { 153 211 153 }
+	color_ui = rgb { 111 222 111 }
+}
+EML = {
+	color = rgb { 197 195 100 }
+	color_ui = rgb { 200 200 0 }
+}
+SRD = {
+	color = rgb { 102 203 203 }
+	color_ui = rgb { 102 203 102 }
+}
+SIC = {
+	color = rgb { 153 189 25 }
+	color_ui = rgb { 102 153 0 }
+}
+IST = {
+	color = rgb { 204 102 153 }
+	color_ui = rgb { 204 102 153 }
+}
+FRL = {
+	color = rgb { 24 68 153 }
+	color_ui = rgb { 24 68 153 }
+}
+SUT = {
+	color = rgb { 47 124 110 }
+	color_ui = rgb { 47 124 110 }
+}
+VAT = {
+	color = rgb { 234 217 108 }
+	color_ui = rgb { 234 217 108 }
+}
+SMR = {
+	color = rgb { 90 180 200 }
+	color_ui = rgb { 90 180 200 }
+}
+MNC = {
+	color = rgb { 180 56 154 }
+	color_ui = rgb { 180 56 154 }
+}
+LIE = {
+	color = rgb { 60 40 120 }
+	color_ui = rgb { 60 40 120 }
+}
+ADR = {
+	color = rgb { 105 42 125 }
+	color_ui = rgb { 105 42 125 }
 }
