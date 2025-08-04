@@ -3957,7 +3957,7 @@
 3956;46;174;88;land;false;hills;1
 3957;46;174;193;land;true;urban;2
 3958;46;177;8;land;false;mountain;1
-3959;46;177;53;land;false;mountain;1
+3959;46;177;53;land;true;mountain;1
 3960;46;177;158;land;false;plains;2
 3961;46;180;18;land;false;mountain;1
 3962;46;180;73;land;true;hills;6

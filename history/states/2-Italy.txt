@@ -1,6 +1,6 @@
 state = {
 	id = 2
-	name = "STATE_2" # Latium
+	name = "STATE_2" 
 	manpower = 2231971
 	
 	state_category = city
