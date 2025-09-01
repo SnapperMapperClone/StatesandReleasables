@@ -1255,3 +1255,67 @@ ADR = {
 	color = rgb { 105 42 125 }
 	color_ui = rgb { 105 42 125 }
 }
+ASR = {
+	color = rgb { 124 105 204 }
+	color_ui = rgb { 124 105 204 }
+}
+ADL = {
+	color = rgb { 205 242 94 }
+	color_ui = rgb { 205 242 94 }
+}
+AGN = {
+	color = rgb { 213 112 46 }
+	color_ui = rgb { 213 112 46 }
+}
+VAL = {
+	color = rgb { 213 172 96 }
+	color_ui = rgb { 213 172 96 }
+}
+CNR = {
+	color = rgb { 93 182 153 }
+	color_ui = rgb { 93 182 153 }
+}
+ALS = {
+	color = rgb { 106 57 181 }
+	color_ui = rgb { 76 97 121 }
+}
+NRM = {
+	color = rgb { 148 29 148 }
+	color_ui = rgb { 68 29 101 }
+}
+FRC = {
+	color = rgb { 68 99 125 }
+	color_ui = rgb { 68 99 125 }
+}
+RMD = {
+	color = rgb { 143 102 205 }
+	color_ui = rgb { 143 102 205 }
+}
+GRS = {
+	color = rgb { 142 205 102 }
+	color_ui = rgb { 142 205 102 }
+}
+FLA = {
+	color = rgb { 203 203 48 }
+	color_ui = rgb { 203 203 48 }
+}
+WAL = {
+	color = rgb { 142 12 68 }
+	color_ui = rgb { 102 12 48 }
+}
+SAA = {
+	color = rgb { 20 102 102 }
+	color_ui = rgb { 20 102 102 }
+}
+SOR = {
+	color = rgb { 103 24 153 }
+	color_ui = rgb { 103 24 153 }
+}
+OSP = {
+	color = rgb { 123 136 106 }
+	color_ui = rgb { 123 126 106 }
+}
+ZAK = {
+	color = rgb { 15 102 153 }
+	color_ui = rgb { 15 102 153 }
+}

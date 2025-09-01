@@ -9,6 +9,7 @@ state = {
 		owner = GER
 		add_core_of = GER
 		add_core_of = PRE
+		add_core_of = OSP
 
 		victory_points = {
 			6375 3 # Allenstein

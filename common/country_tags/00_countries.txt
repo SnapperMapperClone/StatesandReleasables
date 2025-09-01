@@ -384,3 +384,25 @@ SMR = "countries/San Marino.txt"
 MNC = "countries/Monaco.txt"
 LIE = "countries/Liechtenstein.txt"
 ADR = "countries/Andorra.txt"
+
+ADL = "countries/Andalucia.txt"
+ASR = "countries/Asturias.txt"
+AGN = "countries/Aragon.txt"
+VAL = "countries/Valencia.txt"
+CNR = "countries/Canaries.txt"
+
+ALS = "countries/Alsace-Lorraine.txt"
+NRM = "countries/Normandy.txt"
+FRC = "countries/Franche-Comte.txt"
+
+RMD = "countries/Romandie.txt"
+GRS = "countries/Grisons.txt"
+
+FLA = "countries/Flanders.txt"
+WAL = "countries/Wallonia.txt"
+
+SAA = "countries/Saarland.txt"
+SOR = "countries/Sorbia.txt"
+OSP = "countries/East Prussia.txt"
+
+ZAK = "countries/Carpathian Ruthenia.txt"
