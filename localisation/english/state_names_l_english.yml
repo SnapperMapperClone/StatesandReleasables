@@ -1365,7 +1365,17 @@
  GEN_STATE_1055: "Premissel"
  STATE_1056: "Stropkov"
  UKR_STATE_1056: "Stropkiv"
+ HUN_STATE_1056: "Sztropkov"
  STATE_1057: "Chełm"
  UKR_STATE_1057: "Kholm"
  GER_STATE_1057: "Kulm"
  SOV_STATE_1057: "Holm"
+ STATE_1058: "Horki"
+ SOV_STATE_1058: "Gorki"
+ STATE_1059: "Starodub"
+
+
+ STATE_1060: "Prekmurje"
+ HUN_STATE_1060: "Muravidék"
+ STATE_1061: "Međimurje"
+ HUN_STATE_1061: "Muraköz"
