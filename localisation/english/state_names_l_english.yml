@@ -94,11 +94,13 @@
  STATE_42:0 "Palatinate"
  GER_STATE_42: "Pflaz"
  STATE_43:0 "Northern Hungary"
+ HUN_STATE_43: "Magyarország"
  STATE_44: "Central Albania"
  STATE_45: "Vojvodina" 
  YUG_STATE_45: "Backa" # was Vojvodina
  HUN_STATE_45: "Délvidék"
  STATE_46:0 "Muntenia"
+ HUN_STATE_46: "Munténia"
  STATE_47:0 "Attica"
  STATE_48:0 "Sofia"
  BUL_STATE_48: "Sofiya"
@@ -141,8 +143,13 @@
  SOV_STATE_68: "Lyubush"
  STATE_69:1 "North Sudetenland"
  GER_STATE_69: "Deutschböhmen"
+
  STATE_70:0 "Western Slovakia"
+ HUN_STATE_70: "Nyitra-Zsolna"
+
  STATE_71:0 "Eastern Slovakia"
+ HUN_STATE_71: "Eperjes"
+
  STATE_72: "Trans-Olza"
  POL_STATE_72: "Zaolzie"
  CZE_STATE_72: "Tešínsko"
@@ -183,13 +190,23 @@
  AUS_STATE_80: "Bukowina"
  UKR_STATE_80: "Bukovyna"
  SOV_STATE_80: "Bukovina"
+
  STATE_81:0 "Oltenia"
+ HUN_STATE_81: "Olten"
+
  STATE_82:0 "Banat"
+ HUN_STATE_82: "Bánság"
+ ITA_STATE_82: "Banato"
+
  STATE_83:0 "Crisana"
  HUN_STATE_83: "Körösvidék"
  GER_STATE_83: "Kreischgebiet"
  AUS_STATE_83: "Kreischgebiet"
+
  STATE_84:0 "Transylvania"
+ HUN_STATE_84: "Dél-Erdély"
+
+
  STATE_85:0 "Danzig"
  POL_STATE_85: "Gdańsk"
  SOV_STATE_85: "Gdansk"
@@ -250,12 +267,56 @@
  STATE_101:0 "Greenland"
  STATE_102:1 "North Slovenia"
  STATE_103:0 "Dalmatia"
+ ITA_STATE_103: "Dalmazia"
+ YUG_STATE_103: "Dalmacije"
+ SER_STATE_103: "Dalmacije"
+ CRO_STATE_103: "Dalmacija"
+ GRE_STATE_103: "Dalmatía"
+ GER_STATE_103: "Dalmatien"
+ AUS_STATE_103: "Dalmatien"
+ HUN_STATE_103: "Dalmácia"
+ BUL_STATE_103: "Dalmatsiya"
+ FRA_STATE_103: "Dalmatie"
+
  STATE_104:0 "Bosnia"
+ HUN_STATE_104: "Bosznia"
+
  STATE_105:0 "Montenegro"
- STATE_106:0 "Macedonia"
- STATE_107:0 "Serbia"
- STATE_108:0 "Morava"
+ YUG_STATE_105: "Crna Gora"
+ SER_STATE_105: "Crna Gora"
+ MNT_STATE_105: "Montenegro"
+ BUL_STATE_105: "Cherna Gora"
+ CRO_STATE_105: "Crne Gore"
+ ALB_STATE_105: "Mali i Zi"
+ GRE_STATE_105: "Mavrovoúnio"
+ STATE_106:0 "Skopje"
+ BUL_STATE_106: "Skopie"
+ GRE_STATE_106: "Skópia"
+ ALB_STATE_106: "Shkupi
+ TUR_STATE_106: "Üsküp"
+
+ STATE_107:0 "Belgrade"
+ YUG_STATE_107: "Beograd"
+ SER_STATE_107: "Beograd"
+ CRO_STATE_107: "Beograd"
+ GER_STATE_107: "Belgrad"
+ AUS_STATE_107: "Belgrad"
+ ITA_STATE_107: "Belgrado"
+ ROM_STATE_107: "Belgrad"
+ BOS_STATE_107: "Belgrad"
+ BUL_STATE_107: "Belgrad"
+ TUR_STATE_107: "Belgrat"
+ HUN_STATE_107: "Belgrád"
+ GRE_STATE_107: "Veligrádio"
+
+ STATE_108:0 "Niš"
+ BUL_STATE_108: "Nish"
+ TUR_STATE_108: "Niş"
+ ROM_STATE_108: "Timok"
+
  STATE_109:0 "Croatia"
+ HUN_STATE_109: "Horvát-Szlavónország"
+
  STATE_110:2 "Oslofjord"
  STATE_111:0 "Uusimaa"
  SWE_STATE_111: "Nyland"
@@ -328,6 +389,7 @@
  POL_STATE_154: "Kraj Zacisański"
  ROM_STATE_154: "Crisana de Vest"
  STATE_155:1 "North Transdanubia" # was Transdanubia
+ HUN_STATE_155: "Észak-Dunántúl"
  STATE_156:0 "Calabria"
  STATE_157:0 "Abruzzo"
  STATE_158:2 "Piedmont"
@@ -366,7 +428,13 @@
  STATE_181:0 "Guarda"
  STATE_182:0 "Crete"
  STATE_183:0 "Cyprus"
+
  STATE_184:0 "Thrace"
+ GRE_STATE_184: "Thráki"
+ BUL_STATE_184: "Belmora"
+ TUR_STATE_184: "Trakya"
+ YUG_STATE_184: "Trakija"
+
  STATE_185:0 "Epirus"
  STATE_186:0 "Peloponnese"
  STATE_187:0 "Aegean Islands"
@@ -944,7 +1012,13 @@
  STATE_728:0 "Guangzhouwan"
  STATE_729:0 "Macau"
  STATE_730:0 "St Pierre and Miquelon"
- STATE_731:0 "Central Macedonia"
+
+ STATE_731:0 "Thessaloniki"
+ YUG_STATE_731: "Solun"
+ BUL_STATE_731: "Solun"
+ MAC_STATE_731:0 "Solun"
+ TUR_STATE_731: "Selanik"
+
  STATE_732:0 "Pamir"
  STATE_733:0 "Andaman"
  STATE_733_shaheed:0 "Shaheed"
@@ -987,7 +1061,11 @@
  SOV_STATE_763: "Kaliningrad"
  LIT_STATE_763: "Karaliaucius"
  POL_STATE_763: "Królewiec"
+
  STATE_764:0 "West Banat"
+ HUN_STATE_764: "Torontál"
+ ITA_STATE_764: "Banato Occidentale"
+
  STATE_765:0 "Qatar"
  STATE_766:0 "Budjak"
  UKR_STATE_766: "Budzhak"
@@ -1031,11 +1109,21 @@
  STATE_798:0 "Amasya"
  STATE_799:0 "Hatay"
  STATE_800:0 "Van"
+
  STATE_801:0 "Moesia"
  BUL_STATE_801: "Mezia"
+ YUG_STATE_801: "Mezija"
+ ITA_STATE_801: "Mesia"
+ GRE_STATE_801: "Moisía"
+
+
  STATE_802:0 "Kosovo"
- STATE_803:0 "Southern Serbia"
+ ITA_STATE_802: "Kossovo"
+ ALB_STATE_802: "Kosova"
+ GRE_STATE_802: "Kossyfopédio"
+ STATE_803:0 "Pirot"
  STATE_804:0 "Herzegovina"
+ HUN_STATE_804: "Hercegovina"
  STATE_805:0 "Northern Epirus"
  STATE_806:0 "Pyrénées-Atlantiques"
  STATE_807:0 "Gdynia"
@@ -1227,6 +1315,7 @@
  STATE_970: "Debar"
  ALB_STATE_970: "Dibër"
  TUR_STATE_970: "Debre"
+ BUL_STATE_970: "Debŭr"
  STATE_971: "Northern Dobruja"
  ROM_STATE_971: "Northern Dobrogea"
  BUL_STATE_971: "Northern Dobrudzha"
@@ -1235,6 +1324,7 @@
  GER_STATE_972: "Böhmerwaldgau"
  STATE_973: "Bács-Kiskun" # was Bács-Bodrog
  STATE_974: "South Transdanubia"
+ HUN_STATE_974: "Dél-Dunántúl"
  STATE_975: "Burgenland"
  HUN_STATE_975: "Örvidék"
  CRO_STATE_975: "Gradišće"
@@ -1374,8 +1464,31 @@
  SOV_STATE_1058: "Gorki"
  STATE_1059: "Starodub"
 
-
  STATE_1060: "Prekmurje"
  HUN_STATE_1060: "Muravidék"
  STATE_1061: "Međimurje"
  HUN_STATE_1061: "Muraköz"
+ STATE_1062: "Syrmia"
+ YUG_STATE_1062: "Srem"
+ SER_STATE_1062: "Srem"
+ CRO_STATE_1062: "Srijem"
+ HUN_STATE_1062: "Szerém"
+ GER_STATE_1062: "Syrmien"
+ ROM_STATE_1062: "Sirmia"
+
+ 
+ STATE_1063: "Sandžak"
+ STATE_1064: "Morava"
+ STATE_1065: "Drama"
+
+ STATE_1066: "Chalcidice"
+ GRE_STATE_1066: "Chalkidikí"
+ TUR_STATE_1066: "Kalcidice"
+ BUL_STATE_1066: "Khalkidika"
+ YUG_STATE_1066: "Halkidika"
+ MAC_STATE_1066: "Halkidika"
+
+ STATE_1067: "Vidin"
+ GRE_STATE_1067: "Víntin"
+ GER_STATE_1067: "Widin"
+ POL_STATE_1067: "Widin"

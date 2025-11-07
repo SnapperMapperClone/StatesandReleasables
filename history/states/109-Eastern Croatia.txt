@@ -2,7 +2,7 @@
 state={
 	id=109
 	name="STATE_109" # Croatia
-	manpower = 2224400
+	manpower = 1787200
 	
 	state_category = large_town
 
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		624 3592 3596 3601 3627 6647 9595 9611 11577 11580 11581 11594
+		624 3592 3596 3601 3627 6647 9595 9611 11581 11594
 	}
 
 	local_supplies=0.0 

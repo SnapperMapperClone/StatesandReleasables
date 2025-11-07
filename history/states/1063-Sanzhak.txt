@@ -1,0 +1,25 @@
+
+state={
+	id=1063
+	name="STATE_1063"
+
+	history={
+		owner = YUG
+		add_core_of = SER
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = YUG
+
+	}
+
+	provinces={
+		937 3922 
+	}
+	manpower=204068
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=3.0 
+}
