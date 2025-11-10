@@ -1319,3 +1319,7 @@ ZAK = {
 	color = rgb { 15 102 153 }
 	color_ui = rgb { 15 102 153 }
 }
+ARO = {
+	color = rgb { 140 102 203 }
+	color_ui = rgb { 140 102 203 }
+}

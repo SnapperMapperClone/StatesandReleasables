@@ -1492,3 +1492,24 @@
  GRE_STATE_1067: "Víntin"
  GER_STATE_1067: "Widin"
  POL_STATE_1067: "Widin"
+
+ STATE_1068: "Carinthia"
+ AUS_STATE_1068: "Kärnten"
+ GER_STATE_1068: "Kärnten"
+ YUG_STATE_1068: "Koruška"
+ SLV_STATE_1068: "Koroška"
+ ITA_STATE_1068: "Carinzia"
+ HUN_STATE_1068: "Karintia"
+
+ STATE_1069: "Thessaly"
+ GRE_STATE_1069: "Thessalía"
+ ITA_STATE_1069: "Tessaglia"
+ BUL_STATE_1069: "Tesaliya"
+ YUG_STATE_1069: "Tesalija"
+ TUR_STATE_1069: "Tesalya"
+
+
+ STATE_1070: "Ionian Islands"
+ GRE_STATE_1070: "Eptánisa"
+
+ STATE_1071: "Western Macedonia"

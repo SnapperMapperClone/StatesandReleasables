@@ -406,3 +406,4 @@ SOR = "countries/Sorbia.txt"
 OSP = "countries/East Prussia.txt"
 
 ZAK = "countries/Carpathian Ruthenia.txt"
+ARO = "countries/Aromania.txt"
