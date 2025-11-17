@@ -1552,3 +1552,15 @@
  STATE_1081: "Ordu"
  STATE_1082: "Adjara"
  GEO_STATE_1082: "Achara"
+
+ STATE_1083: "Ağrı"
+ TUR_STATE_1083: "Ağrı"
+ KUR_STATE_1083: "Agirîyê"
+ ARM_STATE_1083: "Ararat"
+ 
+ STATE_1084: "Erzurum"
+ TUR_STATE_1084: "Erzurum"
+ KUR_STATE_1084: "Erzîrom"
+ ARM_STATE_1084: "Karin"
+
+ STATE_1085: "Maykop"

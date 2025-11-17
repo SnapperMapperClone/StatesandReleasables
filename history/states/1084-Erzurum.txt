@@ -1,11 +1,14 @@
 state={
-	id=800
-	name="STATE_800" #Van
+	id=1084
+	name="STATE_1084"
 
 	history={
 		owner = TUR
 		victory_points = {
-			6935 5 
+			11853 3
+		}
+		victory_points = {
+			9868 1
 		}
 		buildings = {
 			infrastructure = 1
@@ -26,9 +29,9 @@ state={
 	}
 
 	provinces={
-		864 6935 7470 11880 12318 13121 
+		652 9858 9868 9954 11853 
 	}
-	manpower = 308284
+	manpower = 250000
 	state_category = rural
 
 	local_supplies=0.0 
