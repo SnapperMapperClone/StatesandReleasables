@@ -1,10 +1,11 @@
 state = {
 	id = 42
 	name = "STATE_42"
-	manpower = 1957287
+	manpower = 1763163
 	resources = {
-		steel = 25 #was 21 #was 35 was 59 # was: 100
-		aluminium = 10 # was: 24
+		steel = 50 #was 21 #was 35 was 59 # was: 100
+		aluminium = 14 # was: 24
+		coal = 14 # initial distirbution / 660 total
 	}
 	
 	state_category = metropolis
@@ -14,6 +15,7 @@ state = {
 		owner = GER
 		add_core_of = GER
 		add_core_of = RHI
+		add_core_of = PRE
 
 		#victory_points = { 
 		#	3423 3 # Koblenz
@@ -23,13 +25,9 @@ state = {
 			9575 3 # Trier
 		}
 
-		victory_points = {
-			11560 2 # Mainz
-		}
-
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 3
 		}
 	
 		set_demilitarized_zone = yes
@@ -41,7 +39,7 @@ state = {
 		1939.1.1 = {
 			buildings = {
 				radar_station = 1
-				synthetic_refinery = 2
+				synthetic_refinery = 3
 				#Westwall Forts
 				9575 = {
 					bunker = 2
@@ -57,7 +55,7 @@ state = {
 	}
 
 	provinces = {
-		563 3423 3558 9575 11547 11560
+		563 3423 3558 9575 11547 
 	}
 	
 	local_supplies = 0.0 

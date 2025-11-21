@@ -1,7 +1,7 @@
 state = {
 	id = 56
 	name = "STATE_56"
-	manpower = 1009548
+	manpower = 2058467
 	
 	state_category = city
 
@@ -10,6 +10,7 @@ state = {
 		owner = GER
 		add_core_of = GER
 		add_core_of = HAN
+		add_core_of = PRE
 
 		victory_points = {
 			11388 5 # Münster
@@ -18,7 +19,15 @@ state = {
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
+			dockyard = 2
 			fuel_silo = 1
+			air_base = 3
+		}
+		
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 3
+			}
 		}
 	}
 

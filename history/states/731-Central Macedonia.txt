@@ -26,7 +26,12 @@ state={
 	provinces={
 		936 3844 10163 11818 
 	}
-	manpower=740700
+	manpower=880700
+
+	resources = {
+		coal = 1 # initial distribution / 1 total
+	}
+
 	buildings_max_level_factor=1.000
 	state_category=town
 

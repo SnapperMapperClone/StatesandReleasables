@@ -6,7 +6,7 @@ state={
 	history={
 		owner = BRA
 		add_core_of = BRA
-		add_core_of = AMA
+
 	}
 
 	provinces={
@@ -16,5 +16,6 @@ state={
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 	impassable = yes
+	force_link_ownership_to = 495 # Amazonas
 	local_supplies=0.000
 }

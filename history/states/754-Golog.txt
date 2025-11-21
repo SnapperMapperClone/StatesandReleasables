@@ -17,6 +17,10 @@ state = {
 			12732 10 #Was 3 when it was Lanzhou, but should be Xining, the capital of Xibei 
 		}
 
+		victory_points = {
+			11448 1 # Labrang
+		}
+
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

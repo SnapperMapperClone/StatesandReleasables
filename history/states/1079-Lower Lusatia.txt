@@ -1,0 +1,31 @@
+state = {
+	id = 1079
+	name = "STATE_1079"
+	manpower = 550000
+
+	state_category = city
+
+	history = {
+
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRE
+		add_core_of = SOR
+
+		victory_points = {
+			9496 1 # Seelow
+		}
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+	}
+
+	provinces = {
+		478 9428 9496 11415 
+	}
+
+	local_supplies = 0.0 
+}

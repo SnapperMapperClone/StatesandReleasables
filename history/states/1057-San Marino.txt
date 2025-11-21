@@ -1,0 +1,21 @@
+state = {
+	id = 1057
+	name = "STATE_1057" 
+	manpower = 11000
+	
+	state_category = city
+
+	history = {
+		owner = SMR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = SMR
+	}
+
+	provinces = {
+		13377
+ 	}
+
+	local_supplies = 0.0 
+}
