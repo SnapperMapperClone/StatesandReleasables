@@ -1,7 +1,7 @@
 state = {
 	id = 232
 	name = "STATE_232" #Dagestan
-	manpower = 1153292
+	manpower = 500238
 	
 	state_category = rural
 	
@@ -21,17 +21,13 @@ state = {
 			6701 3 # Makhachkala
 		}
 
-		victory_points = {
-			7624 1 # Derbent
-		}
-
 		add_core_of = SOV
 		add_core_of = DAG
 
 	}
 
 	provinces = {
-		1450 1455 3668 3682 3711 4463 6689 6701 7554 7624 9645 13419
+		3668 3682 6701 
 	}
 
 	local_supplies = 0.0 

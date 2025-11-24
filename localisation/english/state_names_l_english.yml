@@ -1651,4 +1651,9 @@
 
  STATE_1125: "Terek"
  
-
+ STATE_1126: "Derbent"
+ STATE_1127: "Avaria"
+ STATE_1128: "Kaitag"
+ 
+ STATE_1129: "Syunik"
+ STATE_1130: "Talysh"
