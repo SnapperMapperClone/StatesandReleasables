@@ -427,7 +427,10 @@
  STATE_180:0 "Porto"
  STATE_181:0 "Guarda"
  STATE_182:0 "Crete"
+ TUR_STATE_182: "Girit"
+
  STATE_183:0 "Cyprus"
+ TUR_STATE_183: "Kibris"
 
  STATE_184:0 "Thrace"
  GRE_STATE_184: "Thráki"
@@ -842,7 +845,9 @@
  STATE_551:0 "Khartoum"
  STATE_552:0 "Western Desert"
  STATE_553:0 "Lebanon"
+ TUR_STATE_553: "Lübnan"
  STATE_554:0 "Damascus"
+ TUR_STATE_554: "Şam"
  STATE_555:0 "Kuril Islands"
  STATE_556:2 "Bamako"
  STATE_557:0 "Mauritania"
@@ -965,8 +970,12 @@
  STATE_673:0 "Sulawesi"
  STATE_674:0 "Central Australia"
  STATE_675:0 "Al Hajara"
+
  STATE_676:0 "Mosul"
+ TUR_STATE_676: "Musul"
  STATE_677:0 "Aleppo"
+ TUR_STATE_677: "Halep"
+
  STATE_678:0 "Rub al Khali"
  STATE_679:1 "Madinah"
  STATE_680:0 "Deir-az-Zur"
@@ -1645,7 +1654,7 @@
  TUR_STATE_1122: "Javaketi"
 
  STATE_1123: "Novorossiysk"
- SOV_STATE_112: "Novorossiysky"
+ SOV_STATE_1123: "Novorossiysky"
 
  STATE_1124: "Maykop"
 
@@ -1657,3 +1666,19 @@
  
  STATE_1129: "Syunik"
  STATE_1130: "Talysh"
+
+ STATE_1131: "Nineveh"
+ STATE_1132: "Sulaymaniyah"
+ TUR_STATE_1132: "Süleymaniye"
+ STATE_1133: "Qamishli"
+ TUR_STATE_1133: "Kamişli"
+ STATE_1134: "Kobani"
+ SYR_STATE_1134: "Ayn al-Arab"
+ STATE_1135: "Latakia"
+ TUR_STATE_1135: "Lazkiye"
+ SYR_STATE_1135: "al-Lādhiqiyya"
+ STATE_1136: "Suwayda"
+ SUR_STATE_1136: "as-Suwaydā"
+ TUR_STATE_1136: "Süveyde"
+
+ STATE_1137: "Jazan"
