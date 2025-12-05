@@ -579,8 +579,9 @@
  STATE_287:0 "Taklamakan"
  STATE_288:0 "Magwe"
  STATE_289:0 "Siam"
- STATE_290:0 "Spanish Africa"
+ STATE_290:0 "Northern Morocco"
  STATE_291:0 "Baghdad"
+ TUR_STATE_291: "Bağdat"
  STATE_292:0 "Nejd"
  STATE_293: "North Yemen" # Was Yemen
  STATE_294: "Muscat" # Was Oman
@@ -711,7 +712,7 @@
  STATE_417:0 "Hamadan"
  STATE_418:0 "Semnan"
  STATE_419:1 "West Azerbaijan"
- STATE_420:0 "Gilan"
+ STATE_420:0 "Zanjan"
  STATE_421:0 "Ilam"
  STATE_422:0 "Ceylon"
  STATE_423:0 "Southern Madras"
@@ -747,6 +748,7 @@
  STATE_453:0 "Sinai"
  STATE_454:0 "Palestine"
  STATE_455:0 "Jordan"
+ TUR_STATE_455: "Ürdün"
  STATE_456:0 "Aswan"
  STATE_457:1 "Eastern Desert"
  STATE_458:0 "Tunisia"
@@ -950,6 +952,7 @@
  STATE_654:1 "Oyrot Region"
  STATE_655:0 "North Sakhalin"
  STATE_656:0 "Kuwait"
+ TUR_STATE_656: "Kuveyt"
  STATE_657:0 "Birobidzhan"
  STATE_658:0 "Abu Dhabi"
  STATE_659: "South Yemen" # was Aden
@@ -978,7 +981,9 @@
 
  STATE_678:0 "Rub al Khali"
  STATE_679:1 "Madinah"
+ TUR_STATE_679: "Medine"
  STATE_680:0 "Deir-az-Zur"
+ TUR_STATE_680: "Zor"
  STATE_681:0 "Cape"
  STATE_682:0 "Northern Ontario"
  STATE_683:1 "Nunavut"
@@ -1214,7 +1219,8 @@
  GER_STATE_853: "Laibach"
  STATE_854:0 "Jawf"
  STATE_855:0 "Tabuk"
- STATE_856:0 "Asir-Makkah"
+ STATE_856:0 "Makkah"
+ TUR_STATE_856: "Mekke"
  STATE_857:1 "Al-Qassim"
  STATE_858:0 "Najiran"
  STATE_859:0 "Dammam"
@@ -1402,6 +1408,7 @@
  STATE_1009: "Farah"
  STATE_1010: "Al Anbar"
  STATE_1011: "Al Basrah"
+ TUR_STATE_1011: "Basra"
  STATE_1012: "Kalat"
  STATE_1013: "Musandam"
  STATE_1014: "Bahrain"
@@ -1682,3 +1689,11 @@
  TUR_STATE_1136: "Süveyde"
 
  STATE_1137: "Jazan"
+ TUR_STATE_1137: "Cazan"
+ STATE_1138: "Asir"
+
+ STATE_1139: "Gilan"
+ STATE_1140: "Mazandaran"
+ STATE_1141: "Golestan"
+
+ STATE_1142: "Bamyan"
