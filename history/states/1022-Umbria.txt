@@ -1,0 +1,24 @@
+state = {
+	id = 1022
+	name = "STATE_1022"
+	manpower = 722544
+	
+	state_category = city
+
+	history = {
+		owner = ITA
+		victory_points = { 9904 40 } #Rome
+		victory_points = { 11846 1 } #Anzio (was 5)
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = ITA
+	}
+
+	provinces = {
+		3885 6926 9794 
+ 	}
+
+	local_supplies = 0.0 
+}
