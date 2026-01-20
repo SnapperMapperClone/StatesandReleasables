@@ -6690,7 +6690,7 @@
 6689;87;72;221;land;false;hills;1
 6690;87;75;81;land;false;hills;1
 6691;87;78;46;land;false;mountain;1
-6692;87;78;151;land;false;mountain;1
+6692;87;78;151;land;false;mountain;7
 6693;87;81;11;land;false;forest;1
 6694;87;81;66;land;false;plains;2
 6695;87;81;216;land;false;forest;1
@@ -9647,7 +9647,7 @@
 9646;129;75;144;land;false;plains;1
 9647;129;78;59;land;false;plains;1
 9648;129;78;209;land;false;urban;1
-9649;129;81;24;land;false;mountain;1
+9649;129;81;24;land;false;mountain;7
 9650;129;81;174;land;false;mountain;1
 9651;129;84;89;land;false;plains;1
 9652;129;84;139;land;false;mountain;1
