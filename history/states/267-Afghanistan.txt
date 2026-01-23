@@ -2,7 +2,7 @@
 state={
 	id=267
 	name="STATE_267" # Kabul
-	manpower = 1226110
+	manpower = 1026110
 	
 	state_category = town
 	
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		10737 10852 
+		10737 
 	}
 
 	local_supplies=0.0 

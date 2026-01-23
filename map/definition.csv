@@ -13410,8 +13410,8 @@
 13409;85;29;91;land;false;hills;1
 13410;72;177;230;land;false;mountain;7
 13411;211;57;72;land;false;mountain;7
-13412;129;81;24;land;false;mountain;1
-13413;87;78;151;land;false;mountain;1
+13412;74;45;121;land;false;mountain;1
+13413;179;53;16;land;false;mountain;1
 13414;205;183;104;land;false;hills;1
 13415;206;115;85;land;false;mountain;1
 13416;40;122;184;land;false;mountain;1
@@ -13419,5 +13419,7 @@
 13418;87;160;229;land;false;mountain;7
 13419;142;71;221;land;false;hills;1
 13420;172;100;148;land;true;mountain;7
-13421;193;129;26;land;false;desert;7
-13422;54;83;123;land;false;desert;7
+13421;87;78;151;land;false;desert;7
+13422;129;81;24;land;false;desert;7
+13423;54;83;123;land;false;desert;7
+13424;193;129;26;land;false;desert;7
