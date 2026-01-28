@@ -434,4 +434,26 @@ OSP = "countries/East Prussia.txt"
 ZAK = "countries/Carpathian Ruthenia.txt"
 ARO = "countries/Aromania.txt"
 
+PNT = "countries/Pontus.txt"
+LAZ = "countries/Lazistan.txt"
+AJR = "countries/Adjara.txt"
+
+ATK = "countries/Astrakhan.txt"
+MRC = "countries/Mountain Republic.txt"
+STV = "countries/Stavropol.txt"
+ADY = "countries/Circassia.txt"
+KRC = "countries/Karachay-Cherkessia.txt"
+ING = "countries/Ingushetia.txt"
+AVA = "countries/Avaria.txt"
+NOG = "countries/Nogai.txt"
+KMK = "countries/Kumykia.txt"
+DRG = "countries/Dargo.txt"
+LEZ = "countries/Lezgistan.txt"
+TAL = "countries/Talysh.txt"
+
+GIL = "countries/Gilan.txt"
+MAZ = "countries/Mazandaran.txt"
+
+HAZ = "countries/Hazarajat.txt"
+
 UYG = "countries/Uyghuristan.txt"
