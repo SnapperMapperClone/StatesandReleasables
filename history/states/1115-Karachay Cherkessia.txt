@@ -8,6 +8,8 @@ state = {
 		}
 		add_core_of = SOV
 		add_core_of = KUB
+		add_core_of = KRC
+		add_core_of = MRC
 	}
 
 	provinces = {

@@ -12,6 +12,10 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = AZR
+		add_core_of = AVA
+		add_core_of = LEZ
+		add_core_of = DAG
+		add_core_of = MRC
 
 	}
 
