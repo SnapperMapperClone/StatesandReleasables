@@ -1072,7 +1072,7 @@ DON = {
 	color_ui = rgb { 179 119 0 }
 }
 KUB = {
-	color = rgb { 102 102 153 }
+	color = rgb { 166 0 83 }
 	color_ui = rgb { 61 61 92 }
 }
 DIP = {
@@ -1208,7 +1208,92 @@ HBC = {
 	color_ui = rgb { 94 17 14 }
 }
 
+PNT = {
+	color = rgb { 42 168 126 }
+	color_ui = rgb { 42 168 126 }
+}
 
+LAZ = {
+	color = rgb { 22 44 88 }
+	color_ui = rgb { 22 44 88 }
+}
 
+AJR = {
+	color = rgb { 68 34 136 }
+	color_ui = rgb { 68 34 136 }
+}
 
+ATK = {
+	color = rgb { 26 27 154 }
+	color_ui = rgb { 26 27 154 }
+}
 
+STV = {
+	color = rgb { 205 164 82 }
+	color_ui = rgb { 205 164 82 }
+}
+
+ADY = {
+	color = rgb { 100 140 37 }
+	color_ui = rgb { 100 140 37 }
+}
+
+KRC = {
+	color = rgb { 60 140 74 }
+	color_ui = rgb { 60 140 74 }
+}
+
+ING = {
+	color = rgb { 27 108 27 }
+	color_ui = rgb { 27 108 27 }
+}
+
+MRC = {
+	color = rgb { 70 140 37 }
+	color_ui = rgb { 70 140 37 }
+}
+
+AVA = {
+	color = rgb { 42 145 210 }
+	color_ui = rgb { 42 145 210 }
+}
+
+KMK = {
+	color = rgb { 162 93 31 }
+	color_ui = rgb { 162 93 31 }	
+}
+
+NOG = {
+	color = rgb { 0 120 145 }
+	color_ui = rgb { 0 120 145 }	
+}
+
+DRG = {
+	color = rgb { 28 84 84 }
+	color_ui = rgb { 28 84 84 }	
+}
+
+LEZ = {
+	color = rgb { 124 186 62 }
+	color_ui = rgb { 124 186 62 }	
+}
+
+TAL = {
+	color = rgb { 132 176 68 }
+	color_ui = rgb { 132 176 68 }	
+}
+
+GIL = {
+	color = rgb { 215 208 14 }
+	color_ui = rgb { 215 208 14 }	
+}
+
+MAZ = {
+	color = rgb { 217 144 88 }
+	color_ui = rgb { 217 144 88 }	
+}
+
+HAZ = {
+	color = rgb { 48 120 197 }
+	color_ui = rgb { 48 120 197 }
+}
