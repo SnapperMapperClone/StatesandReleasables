@@ -630,7 +630,7 @@
  STATE_333:1 "North Borneo"
  STATE_334:1 "Kalimantan"
  STATE_335:0 "Java"
- STATE_336:0 "Singapore"
+ STATE_336:0 "Malaya"
  STATE_337:0 "Faroe Islands"
  STATE_338:0 "Gloucestershire"
  STATE_339:0 "Izmir"
@@ -1740,4 +1740,13 @@
  STATE_1155: "Rangamati"
  STATE_1156: "Rangpur"
 
- STATE_1157: "Hukawng" 126150
+ STATE_1157: "Hukawng"
+ 
+ STATE_1158: "Sainyabuli"
+ STATE_1159: "Champasak"
+ STATE_1160: "Oddar"
+ STATE_1161: "Koh Kong"
+ STATE_1162: "Kedah"
+ SIA_STATE_1162: "Syburi"
+ STATE_1163: "Kelantan"
+ SIA_STATE_1163: "Kalantan"
