@@ -3,11 +3,11 @@ state = {
 	name = "STATE_288"
 
 	resources = {
-		tungsten = 92
-		oil = 56
+		tungsten = 46
+		oil = 28
 	}
 	
-	manpower = 2107805
+	manpower = 1897145
 	
 	state_category = rural
 	
@@ -26,7 +26,7 @@ state = {
 	}
 
 	provinces = {
-		3999 4202 4454 4541 7034 7163 7190 7534 10033 11966 12449 
+		4019 4059 4202 4541 7034 7163 7190 7534 
 	}
 
 	local_supplies = 0.000

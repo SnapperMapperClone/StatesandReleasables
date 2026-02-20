@@ -7,7 +7,7 @@ state = {
 	}
 	
 	state_category = rural
-	manpower = 530980
+	manpower = 350640
 	
 	history = {
 		owner = BRM
@@ -28,7 +28,7 @@ state = {
 	}
 
 	provinces = {
-		1014 1142 1333 3651 4019 4059 4147 7122 10182 12090 
+		1142 4147 12090 
 	}
 
 	local_supplies = 0.000

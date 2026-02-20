@@ -3,7 +3,7 @@ state = {
 	name = "STATE_994"
 	
 	state_category = rural
-	manpower = 136693
+	manpower = 1366930
 	
 	history = {
 	
@@ -21,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		1296 1315 1385 1403 1417 4275 4293 4336 4408 7295 7441 10217 12125 12238 12256 12292 
+		1296 1315 1385 1403 1417 4275 4293 4336 4408 7295 10217 12125 12238 12256 12292 13439
 	}
 
 	buildings_max_level_factor = 1.000

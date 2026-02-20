@@ -3,10 +3,10 @@ state = {
 	name = "STATE_999"
 	
 	state_category = rural
-	manpower = 1567516
+	manpower = 1446426
 
 	resources = {
-		tungsten = 70
+		tungsten = 63
 		coal = 4 #Kalewa mines near the Chindwin River
 	}
 	
@@ -25,7 +25,7 @@ state = {
 	}
 
 	provinces = {
-		1170 1566 1607 2061 4210 4654 7603 12317 12363 
+		1170 1566 1607 2061 4210 7603 12363 
 	}
 
 	buildings_max_level_factor = 1.000

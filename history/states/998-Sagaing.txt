@@ -3,7 +3,7 @@ state = {
 	name = "STATE_998"
 	
 	state_category = rural
-	manpower = 840756
+	manpower = 540378
 	
 	history = {
 		owner = BRM
@@ -13,13 +13,10 @@ state = {
 			infrastructure = 1
 		}
 
-		victory_points = {
-			4425 1 
-		}
 	}
 
 	provinces={
-		1082 4425 4588 8063 10386 10486 10920 12335 12464 12492 13432
+		4588 10386 10486 12335 12464 12492 
 	}
 
 	local_supplies = 0.000
