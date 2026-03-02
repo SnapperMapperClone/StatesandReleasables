@@ -1297,3 +1297,55 @@ HAZ = {
 	color = rgb { 48 120 197 }
 	color_ui = rgb { 48 120 197 }
 }
+SHN = {
+	color = rgb { 130 195 65 }
+	color_ui = rgb { 130 195 65 }
+}
+KCH = {
+	color = rgb { 25 100 105 }
+	color_ui = rgb { 25 100 105 }
+}
+ROH = {
+	color = rgb { 19 76 19 }
+	color_ui = rgb { 19 76 19 }
+}
+RAK = {
+	color = rgb { 180 30 60 }
+	color_ui = rgb { 180 30 60 }
+}
+CHN = {
+	color = rgb { 88 44 176 }
+	color_ui = rgb { 88 44 176 }
+}
+NAG = {
+	color = rgb { 44 88 176 }
+	color_ui = rgb { 44 88 176 }
+}
+MIZ = {
+	color = rgb { 121 44 176 }
+	color_ui = rgb { 121 44 176 }
+}
+KOK = {
+	color = rgb { 97 22 22 }
+	color_ui = rgb { 97 22 22 }
+}
+WAS = {
+	color = rgb { 67 11 134 }
+	color_ui = rgb { 67 11 134 }
+}
+KAY = {
+	color = rgb { 134 34 0 }
+	color_ui = rgb { 134 34 0 }
+}
+PAO = {
+	color = rgb { 67 167 167 }
+	color_ui = rgb { 67 167 167 }
+}
+KRN = {
+	color = rgb { 32 64 0 }
+	color_ui = rgb { 32 64 0 }
+}
+MOS = {
+	color = rgb { 135 54 0 }
+	color_ui = rgb { 135 54 0 }
+}
