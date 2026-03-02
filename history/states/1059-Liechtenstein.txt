@@ -1,0 +1,21 @@
+state = {
+	id = 1059
+	name = "STATE_1059" 
+	manpower = 10500
+	
+	state_category = town
+
+	history = {
+		owner = LIE
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = LIE
+	}
+
+	provinces = {
+		13379
+ 	}
+
+	local_supplies = 0.0 
+}

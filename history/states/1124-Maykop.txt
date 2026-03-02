@@ -1,0 +1,32 @@
+
+state={
+	id=1124
+	name="STATE_1124"
+	manpower = 1110000
+	
+	state_category = city
+	resources={
+		tungsten=8 
+		oil=6 
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			3720 1 
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = SOV
+		add_core_of = KUB
+		add_core_of = ADY
+		add_core_of = MRC
+	}
+
+	provinces={
+		735 3717 3720 3760 6721 6736 6738 9674 9691 9694 9696 11681 
+	}
+
+	local_supplies=9.0 
+}

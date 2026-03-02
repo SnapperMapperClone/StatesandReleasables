@@ -1,0 +1,30 @@
+state = {
+	id = 1169
+	name = "STATE_1169"
+	
+	state_category = pastoral
+	manpower = 46730
+
+	resources = {
+		tungsten = 2
+	}
+	
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = KAY
+
+		buildings = {
+			infrastructure = 1
+		}
+		
+	}
+
+	provinces = {
+		4654 7441
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}
+

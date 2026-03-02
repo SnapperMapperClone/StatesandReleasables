@@ -1,0 +1,25 @@
+state = {
+	id = 1168
+	name = "STATE_1168"
+	
+	state_category = enclave
+	manpower = 13669
+	
+	history = {
+	
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = KAY
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		12317
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

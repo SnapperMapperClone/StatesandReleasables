@@ -1,0 +1,23 @@
+
+state={
+	id=1142
+	name="STATE_1142" 
+	manpower = 910000
+	
+	state_category = town
+	
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = AFG
+		add_core_of = HAZ
+	}
+
+	provinces={
+		1995 6692 7916 7984 9649 10789 12769 13421 13422
+	}
+
+	local_supplies=0.0 
+}

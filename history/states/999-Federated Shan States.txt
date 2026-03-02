@@ -1,0 +1,35 @@
+state = {
+	id = 999
+	name = "STATE_999"
+	
+	state_category = rural
+	manpower = 726096
+
+	resources = {
+		tungsten = 27
+		coal = 2 #Kalewa mines near the Chindwin River
+	}
+	
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = SHN
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			7603 1 # Mong Pan
+		}
+		
+	}
+
+	provinces = {
+		1566 1607 2061 7603 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}
+

@@ -1,0 +1,30 @@
+state = {
+	id = 1177
+	name = "STATE_1177"
+
+	resources = {
+		tungsten = 5
+	}
+	
+	manpower = 32540
+	state_category = enclave
+	
+	history = {
+
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = PAO
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = {
+		4626 
+	}
+
+	local_supplies = 0.000
+	buildings_max_level_factor = 1.000
+}

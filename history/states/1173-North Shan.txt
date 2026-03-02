@@ -1,0 +1,31 @@
+state = {
+	id = 1173
+	name = "STATE_1173"
+	
+	state_category = pastoral
+	manpower = 486096
+
+	resources = {
+		tungsten = 28
+		coal = 2 #Kalewa mines near the Chindwin River
+	}
+	
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = SHN
+
+		buildings = {
+			infrastructure = 1
+		}
+		
+	}
+
+	provinces = {
+		1170 7562 12363 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}
+

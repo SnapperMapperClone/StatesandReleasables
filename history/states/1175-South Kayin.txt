@@ -1,0 +1,25 @@
+state = {
+	id = 1175
+	name = "STATE_1175"
+	
+	state_category = pastoral
+	manpower = 252900
+	
+	history = {
+	
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = KRN
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4408 12238
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

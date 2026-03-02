@@ -1,0 +1,23 @@
+state = {
+	id = 1115
+	name = "STATE_1115"
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SOV
+		add_core_of = KUB
+		add_core_of = KRC
+		add_core_of = MRC
+	}
+
+	provinces = {
+		714 11664 13412 13413 13414 13416
+	}
+	manpower = 243198
+	buildings_max_level_factor = 1.000
+	state_category = pastoral
+
+	local_supplies = 0.0 
+}

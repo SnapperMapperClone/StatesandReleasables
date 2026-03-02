@@ -1,0 +1,30 @@
+state={
+	id=1119
+	name="STATE_1119"
+	resources={
+		oil=5 
+	}
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SOV
+		add_core_of = AZR
+		add_core_of = AVA
+		add_core_of = LEZ
+		add_core_of = DAG
+		add_core_of = MRC
+
+	}
+
+	provinces={
+		6763 
+	}
+	manpower=108300
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=1.0
+}

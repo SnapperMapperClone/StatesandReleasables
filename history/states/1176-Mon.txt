@@ -1,0 +1,30 @@
+state = {
+	id = 1176
+	name = "STATE_1176"
+	
+	state_category = rural
+	manpower = 601548
+	
+	history = {
+	
+		owner = BRM
+		add_core_of = BRM
+		add_core_of = MOS
+
+		victory_points = {
+			1403 1 # Moulmein
+		}
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		1403 4336 12125
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

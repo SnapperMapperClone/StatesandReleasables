@@ -1,0 +1,33 @@
+state = {
+	id = 640
+	name = "STATE_640"
+
+	resources = {
+		tungsten = 45
+	}
+	
+	manpower = 125701
+	state_category = town
+	
+	history = {
+
+		owner = BRM
+		add_core_of = BRM
+
+		buildings = {
+			infrastructure = 1
+		}
+
+		victory_points = {
+			1492 3 # Mandalay
+		}
+
+	}
+
+	provinces = {
+		1492 4585 7469 12404 12449
+	}
+
+	local_supplies = 0.000
+	buildings_max_level_factor = 1.000
+}
