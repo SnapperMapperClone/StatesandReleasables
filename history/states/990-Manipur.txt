@@ -2,10 +2,10 @@ state={
 	id=990
 	name="STATE_990"
 	provinces={
-		1525 1553 12322  
+		1553 1581 
 	}
 	state_category = rural
-	manpower = 445606
+	manpower = 261362
 	history={
 		owner = RAJ
 		add_core_of = MPU
