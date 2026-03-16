@@ -1,0 +1,32 @@
+state={
+	id=1187
+	name="STATE_1187"
+	resources={
+		rubber=6 
+	}
+
+	manpower=1490000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	history={
+		
+		owner = FRA
+		add_core_of = VIN
+
+		buildings = {
+
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces = {
+		1396 1423 4223 4284 4341 7303 7331 12133 13437
+	}
+
+	
+
+	local_supplies=0.0 
+}

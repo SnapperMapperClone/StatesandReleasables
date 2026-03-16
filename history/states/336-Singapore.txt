@@ -1,14 +1,14 @@
 state = {
 	id = 336
 	name = "STATE_336"
-	manpower = 1841800
+	manpower = 1478830
 	
 	state_category = large_town
 	
 	resources = {
-		rubber = 290 # was: 848
+		rubber = 250 # was: 848
 		steel = 10 # was: 32, then 20
-		tungsten = 120 # was: 308, then 189
+		tungsten = 90 # was: 308, then 189
 		aluminium = 10 # was: 25, then 15
 	}
 
@@ -36,7 +36,7 @@ state = {
 	}
 
 	provinces = {
-		1348 1364 1376 1392 4310 4367 4384 4412 4424 7342 7399 7427 10227 10297 10313 12215 12255 12271 13433 
+		1348 1364 1376 1392 4310 4384 4412 7342 7399 10227 10297 12215 12255 12271 13433 
 	}
 
 	local_supplies = 0.0 

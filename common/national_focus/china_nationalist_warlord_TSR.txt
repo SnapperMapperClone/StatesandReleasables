@@ -1,3 +1,20 @@
+﻿### search_filters = {FOCUS_FILTER_POLITICAL}
+### search_filters = {FOCUS_FILTER_RESEARCH}
+### search_filters = {FOCUS_FILTER_INDUSTRY}
+### search_filters = {FOCUS_FILTER_STABILITY}
+### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
+### search_filters = {FOCUS_FILTER_MANPOWER}
+### search_filters = {FOCUS_FILTER_ANNEXATION}
+### search_filters = {FOCUS_FILTER_INTERNAL_AFFAIRS}
+### search_filters = {FOCUS_FILTER_ARMY_XP}
+### search_filters = {FOCUS_FILTER_NAVY_XP}
+### search_filters = {FOCUS_FILTER_AIR_XP}
+### search_filters = {FOCUS_FILTER_BALANCE_OF_POWER}
+### search_filters = {FOCUS_FILTER_POLITICAL_CHARACTER}
+### search_filters = {FOCUS_FILTER_MILITARY_CHARACTER}
+### search_filters = {FOCUS_FILTER_INTERNATIONAL_TRADE}
+### search_filters = {FOCUS_FILTER_HISTORICAL}
+
 focus_tree = {
 	id = china_nationalist_warlord_focus
 	
@@ -95,7 +112,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_three_principles_of_the_people
-		icon = GFX_goal_generic_national_unity
+		icon = GFX_focus_CHI_unify_as_the_china_democratic_league
 		
 		prerequisite = { focus = CHI_tsr_repoen_the_natioal_assembly }
 		x = 0
@@ -132,7 +149,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_welfare
-		icon = GFX_goal_generic_consumer_goods
+		icon = GFX_focus_generic_welfare
 		prerequisite = { focus = CHI_sea_three_principles_of_the_people }
 		x = -4
 		y = 1
@@ -163,9 +180,15 @@ focus_tree = {
 		}
 
 		search_filters = { FOCUS_FILTER_WAR_SUPPORT }
+
 		completion_reward = {
+
 			add_war_support = 0.1
+
+			custom_effect_tooltip = generic_skip_one_line_tt
+
 			CHI_hyper_inflation_level_up = yes
+
 		}
 	}
 
@@ -204,13 +227,14 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_WAR_SUPPORT }
 		completion_reward = {
 			add_war_support = 0.1
+			custom_effect_tooltip = generic_skip_one_line_tt
 			CHI_hyper_inflation_level_up = yes
 		}
 	}
 
 	focus = {
 		id = CHI_sea_land_tax_reform
-		icon = GFX_goal_generic_intelligence_exchange
+		icon = GFX_focus_generic_land_redistribution
 		prerequisite = { focus = CHI_sea_welfare }
 		x = 1
 		y = 1
@@ -246,7 +270,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_new_life_movement
-		icon = GFX_goal_generic_propaganda
+		icon = GFX_focus_CHI_enforce_virtues
 		prerequisite = { focus = CHI_sea_refugee_relief_agency }
 		x = -1
 		y = 3
@@ -315,6 +339,7 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_WAR_SUPPORT }
 		completion_reward = {			
 			add_war_support = 0.1
+			custom_effect_tooltip = generic_skip_one_line_tt
 			CHI_hyper_inflation_level_up = yes
 		}
 	}
@@ -355,13 +380,14 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_WAR_SUPPORT }
 		completion_reward = {
 			add_war_support = 0.1
+			custom_effect_tooltip = generic_skip_one_line_tt
 			CHI_hyper_inflation_level_up = yes
 		}
 	}
 
 	focus = {
 		id = CHI_sea_rural_schooling
-		icon = GFX_goal_generic_scientific_exchange
+		icon = GFX_focus_CHI_students_to_the_countryside
 		prerequisite = { focus = CHI_sea_free_hospitals }
 		x = 0
 		y = 5
@@ -395,6 +421,7 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_RESEARCH }
 		completion_reward = {
 			add_research_slot = 1
+			custom_effect_tooltip = generic_skip_one_line_tt
 			CHI_hyper_inflation_level_up = yes
 		}
 	}
@@ -575,7 +602,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_control_yuan
-		icon = GFX_goal_generic_attack_allies
+		icon = GFX_focus_AUS_lawmaking_leniency
 		prerequisite = { focus = CHI_sea_judicial_yuan }
 		prerequisite = { focus = CHI_sea_legislative_yuan }
 		x = 1
@@ -755,7 +782,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_nationalism
-		icon = GFX_goal_generic_propaganda
+		icon = GFX_focus_generic_china1
 		prerequisite = { focus = CHI_sea_three_principles_of_the_people }
 		x = 4
 		y = 1
@@ -820,7 +847,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_prioritize_the_interior
-		icon = GFX_goal_generic_position_armies
+		icon = GFX_focus_CHI_dang_guo
 		prerequisite = { focus = CHI_sea_nationalism }
 		#mutually_exclusive = { focus = CHI_sea_foreign_threats }
 		x = 0
@@ -1389,22 +1416,27 @@ focus_tree = {
 			every_other_country = {
 				limit = {
 					OR = {
-						tag = GXC
-						tag = YUN
-						tag = SHX
-						tag = XSM
-						tag = SIK
-						tag = GDC
-						tag = SND
-						tag = SIC
-						tag = XIC
-						tag = NXM
-						tag = GSM
-						tag = KHM
-						tag = HBC
+						original_tag = GXC
+						original_tag = YUN
+						original_tag = SHX
+						original_tag = XSM
+						original_tag = SIK
+						original_tag = GDC
+						original_tag = SND
+						original_tag = SIC
+						original_tag = XIC
+						original_tag = NXM
+						original_tag = GSM
+						original_tag = KHM
+						original_tag = HBC
 					}
+					is_subject = no 
 				}
-				country_event = { id = wtt_china.1 }
+				country_event = { 
+					id = wtt_china.1 
+					hours = 4
+					random_hours = 6 
+				}
 			}
 			unlock_decision_category_tooltip = CHI_integrate_the_warlords
 		}
@@ -1412,7 +1444,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_war_of_resistance
-		icon = GFX_goal_generic_military_sphere
+		icon = GFX_focus_CHI_demonstrate_our_resolve
 		prerequisite = { focus = CHI_sea_pick_a_fight_with_japan }
 		x = 0
 		y = 1
@@ -1478,7 +1510,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_war_of_national_liberation
-		icon = GFX_goal_generic_occupy_states_ongoing_war
+		icon = GFX_focus_CHI_victory_over_the_invaders
 		prerequisite = { focus = CHI_sea_war_of_resistance }
 		x = 0
 		y = 1
@@ -1554,7 +1586,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_war_of_anti_imperialism
-		icon = GFX_goal_generic_territory_or_war
+		icon = GFX_focus_CHI_clear_out_sycophants
 		prerequisite = { focus = CHI_sea_war_of_national_liberation }
 		x = 0
 		y = 1
@@ -1589,7 +1621,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_forced_conscription
-		icon = GFX_focus_generic_support_the_left_right
+		icon = GFX_focus_CHI_baojia_system
 		prerequisite = { focus = CHI_sea_scorched_earth_tactics }
 		x = 0
 		y = 1
@@ -1625,7 +1657,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_sea_dare_to_die_corps
-		icon = GFX_goal_generic_special_forces
+		icon = GFX_focus_generic_total_war
 		prerequisite = { focus = CHI_sea_forced_conscription }
 		x = 0
 		y = 2
@@ -1904,7 +1936,31 @@ focus_tree = {
 
 	focus = {
 		id = CHI_tsr_restoration_of_the_chinese_empire
-		icon = GFX_focus_CHI_a_second_empire_of_china
+
+		icon = {
+			trigger = {
+				original_tag = KUM 
+			}
+			value = GFX_focus_CHI_a_second_yuan_empire
+		}
+		icon = {
+			trigger = {
+				OR = {
+					original_tag = XSM 
+					original_tag = KHM 
+					original_tag = NXM 
+					original_tag = GSM 
+				}
+			}
+			value = GFX_focus_CHI_a_second_panthay_empire
+		}
+		icon = {
+			trigger = {
+				always = yes
+			}
+			value = GFX_focus_CHI_a_second_empire_of_china
+		} 
+
 		x = -2
 		y = 2
 
@@ -1962,9 +2018,114 @@ focus_tree = {
 				popularity = 0.15
 			}	
 
+			set_party_name = {
+				ideology = neutrality
+				long_name = warlord_monarchy_neutrality_party_long
+				name = warlord_monarchy_neutrality_party
+			}	
+			set_party_name = {
+				ideology = fascism
+				long_name = warlord_monarchy_fascism_party_long
+				name = warlord_monarchy_fascism_party
+			}
+
 			custom_effect_tooltip = generic_skip_one_line_tt
 
-			set_cosmetic_tag = TSR_empire_of_china
+			IF = {
+				limit = {
+					original_tag = KUM
+				}
+				set_cosmetic_tag = CHI_great_yuan
+			}
+			ELSE_IF = {
+				limit = {
+					AND = {
+						OR = {
+							original_tag = XSM 
+							original_tag = KHM 
+							original_tag = NXM 
+							original_tag = GSM 
+						}
+						OR = {
+							has_country_leader = {
+								ruling_only = yes
+								character = XSM_ma_buqing
+							}
+							has_country_leader = {
+								ruling_only = yes
+								character = XSM_ma_hongkui
+							}	
+							has_country_leader = {
+								ruling_only = yes
+								character = KHM_ma_hushan
+							}	
+							has_country_leader = {
+								ruling_only = yes
+								character = QHM_ma_lin
+							}	
+							has_country_leader = {
+								ruling_only = yes
+								character = XSM_ma_bufang	
+							}	
+							has_country_leader = {
+								ruling_only = yes
+								character = XSM_ma_hongbin
+							}	
+						}
+					}
+				}
+				country_event = {
+					id = SEA_warlords.70 
+				}	
+				effect_tooltip = {
+					set_cosmetic_tag = CHI_great_ma 
+				}
+			}
+			ELSE_IF = {
+				limit = {
+					OR = {
+						original_tag = XSM 
+						original_tag = KHM 
+						original_tag = NXM 
+						original_tag = GSM 
+					}
+					NOT = {
+						has_country_leader = {
+							ruling_only = yes
+							character = XSM_ma_buqing
+						}
+						has_country_leader = {
+							ruling_only = yes
+							character = XSM_ma_hongkui
+						}	
+						has_country_leader = {
+							ruling_only = yes
+							character = KHM_ma_hushan
+						}	
+						has_country_leader = {
+							ruling_only = yes
+							character = QHM_ma_lin
+						}	
+						has_country_leader = {
+							ruling_only = yes
+							character = XSM_ma_bufang	
+						}	
+						has_country_leader = {
+							ruling_only = yes
+							character = XSM_ma_hongbin
+						}	
+					}
+				}
+				country_event = {
+					id = SEA_warlords.70 
+				}	
+				effect_tooltip = {
+					set_cosmetic_tag = CHI_panthay_empire 
+				}
+			}
+			ELSE = {
+				set_cosmetic_tag = TSR_empire_of_china
+			}
 
 			custom_effect_tooltip = generic_skip_one_line_tt
 
@@ -1979,9 +2140,27 @@ focus_tree = {
 
 			custom_effect_tooltip = generic_skip_one_line_tt
 
-			set_province_name = { id = 9843 name = PRC_beijing_capital_name }
-			608 = {
-				set_state_name = PRC_beijing_capital_name
+			IF = {
+				limit = {
+					original_tag = KUM
+				}
+				set_province_name = { id = 9843 name = beijing_winter_capital_name }
+				608 = {
+					set_state_name = beijing_winter_capital_name
+				}
+				hidden_effect = {
+					set_province_name = { id = 7674 name = yuan_summer_capital_name }
+				}
+				add_victory_points = {
+					province = 7674
+					value = 5 
+				}	
+			}
+			ELSE = {
+				set_province_name = { id = 9843 name = PRC_beijing_capital_name }
+				608 = {
+					set_state_name = PRC_beijing_capital_name
+				}
 			}
 
 		}
@@ -2293,7 +2472,7 @@ focus_tree = {
 
 	focus = {
 		id = CHI_tsr_reestablish_the_beiyang_army
-		icon = GFX_focus_JAP_strenghten_manchukuo_imperial_army
+		icon = GFX_focus_MAN_restore_the_beiyang_army
 		x = 2
 		y = 1
 
@@ -2705,6 +2884,11 @@ focus_tree = {
 			custom_effect_tooltip = generic_skip_one_line_tt
 
 			add_ideas = CHI_tsr_reorganized_government_idea 
+
+			custom_effect_tooltip = generic_skip_one_line_tt
+
+			custom_effect_tooltip = JAP_unlock_senbu_occupation_law_tt
+			show_ideas_tooltip = senbu_occupation_law_fake_idea
 
 		}
 
@@ -3937,7 +4121,7 @@ focus_tree = {
 		y = 2
 		relative_position_id = CHI_sea_military_affairs_commission
 
-		cost = 10
+		cost = 5
 
 		ai_will_do = {
 			factor = 1
@@ -3957,7 +4141,11 @@ focus_tree = {
 
 		search_filters = { FOCUS_FILTER_MANPOWER }
 		completion_reward = {
-			unlock_decision_tooltip = CHI_60_divisions_plan
+			unlock_decision_tooltip = {
+				decision = CHI_60_divisions_plan
+				show_effect_tooltip = yes 
+				show_modifiers = yes 
+			}	
 		}
 	}
 
@@ -3991,6 +4179,7 @@ focus_tree = {
 			every_army_leader = {
 				add_planning = 1
 			}
+			custom_effect_tooltip = generic_skip_one_line_tt
 			add_ideas = CHI_whampoa_military_academy
 		}
 	}
@@ -4185,6 +4374,7 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_INDUSTRY }
 		completion_reward = {
 			CHI_hyper_inflation_level_up = yes
+			custom_effect_tooltip = generic_skip_one_line_tt
 			custom_effect_tooltip = available_industrial_concern
 			show_ideas_tooltip = CHI_mining_commission			
 		}
@@ -4222,6 +4412,7 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_INDUSTRY }
 		completion_reward = {
 			CHI_hyper_inflation_level_up = yes
+			custom_effect_tooltip = generic_skip_one_line_tt
 			615 = {
 				add_extra_state_shared_building_slots = 3
 				add_building_construction = {
@@ -4263,6 +4454,7 @@ focus_tree = {
 
 		complete_tooltip = {
 			CHI_hyper_inflation_level_up = yes
+			custom_effect_tooltip = generic_skip_one_line_tt
 			random_state = {
 				limit = {
 					has_state_flag = CHI_develop_the_hanyan_arsenal_AF

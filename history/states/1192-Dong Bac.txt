@@ -1,0 +1,35 @@
+state = {
+	id = 1192
+	name = "STATE_1192"
+	manpower = 4264000
+	
+	state_category = town
+	
+	resources = {
+		tungsten = 10 
+	}
+
+
+	history = {
+
+		owner = FRA
+		add_core_of = VIN
+
+		victory_points = {
+			9948 1 # Cao Bang 
+		}
+
+		buildings = {
+
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces = {
+		1073 1157 4119 7015 7093 7518 9948 12008 12048 12065 
+	}
+
+	local_supplies = 0.0 
+}
