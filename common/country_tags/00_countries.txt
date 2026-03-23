@@ -471,3 +471,6 @@ KAY = "countries/Kayah.txt"
 PAO = "countries/Pa'O.txt"
 KRN = "countries/Karen.txt"
 MOS = "countries/Mon.txt"
+
+DAY = "countries/Dayak.txt"
+ATJ = "countries/Atjeh.txt"

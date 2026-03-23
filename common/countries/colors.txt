@@ -1349,3 +1349,11 @@ MOS = {
 	color = rgb { 135 54 0 }
 	color_ui = rgb { 135 54 0 }
 }
+DAY = {
+	color = rgb { 178 168 118 }
+	color_ui = rgb { 178 168 118 }
+}
+ATJ = {
+	color = rgb { 77 22 22 }
+	color_ui = rgb { 77 22 22 }
+}

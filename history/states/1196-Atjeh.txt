@@ -1,0 +1,28 @@
+state = {
+	id = 1196
+	name = "STATE_1196"
+	manpower = 1040000
+	
+	state_category = rural
+
+	history = {
+
+		owner = INS
+		add_core_of = INS
+		add_core_of = ATJ
+
+		buildings = {
+			infrastructure = 1
+
+			1648 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		1648 7658 8360 10509 12488 
+	}
+
+	local_supplies = 0.0 
+}
