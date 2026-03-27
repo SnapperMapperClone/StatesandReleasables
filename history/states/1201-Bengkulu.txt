@@ -1,9 +1,13 @@
 state = {
-	id = 1198
-	name = "STATE_1198"
-	manpower = 1111000
+	id = 1201
+	name = "STATE_1201"
+	manpower = 470000
 	
 	state_category = rural
+	
+	resources = {
+		rubber = 16 
+	}
 
 	history = {
 
@@ -11,14 +15,12 @@ state = {
 		add_core_of = INS
 
 		buildings = {
-
 			infrastructure = 1
-
 		}
 	}
 
 	provinces = {
-		1277 7327 7463 10209 10225 12168 12181 12184 12302 12343
+		7308 7440 10194 12138 12209
 	}
 
 	local_supplies = 0.0 

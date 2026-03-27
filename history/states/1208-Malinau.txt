@@ -1,11 +1,11 @@
 state = {
-	id = 1022
-	name = "STATE_1022"
+	id = 1208
+	name = "STATE_1208"
 
 	manpower = 4300
 
 	impassable = yes 
-	force_link_ownership_to = 1209 
+	force_link_ownership_to = 1211 
 
 	resources = {
 	}
@@ -25,7 +25,7 @@ state = {
 	}
 
 	provinces = {
-		2170 7424 
+		2047 5226 
 	}
 
 	local_supplies = 0.0 

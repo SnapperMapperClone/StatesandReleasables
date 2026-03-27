@@ -1,0 +1,30 @@
+state = {
+	id = 1204
+	name = "STATE_1204"
+	manpower = 1100700
+	
+	state_category = town
+	
+	resources = {
+		rubber = 39
+	}
+
+	history = {
+
+		owner = INS
+		add_core_of = INS
+
+
+		buildings = {
+
+			infrastructure = 2
+
+		}
+	}
+
+	provinces = {
+		1313 1342 4276 4320 4361 12165
+	}
+
+	local_supplies = 0.0 
+}

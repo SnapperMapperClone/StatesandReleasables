@@ -1,9 +1,15 @@
 state = {
-	id = 334
-	name = "STATE_334"
+	id = 1207
+	name = "STATE_1207"
 	
-	manpower = 350250
+	manpower = 769650
 
+	resources = {
+		rubber = 50 # was: 138
+		oil = 5 # was: 10
+		coal = 2 #initial distribution
+	}
+	
 	state_category = rural
 
 	history = {
@@ -12,18 +18,10 @@ state = {
 		add_core_of = INS
 		add_core_of = DAY
 
-		victory_points = {
-			10237 1 # Balikpapan
-		}
-
 		buildings = {
 			infrastructure = 1
 
-			10237 = {
-				naval_base = 3
-			}
-
-			13298 = {
+			1316 = {
 				naval_base = 1
 			}
 
@@ -32,7 +30,7 @@ state = {
 	}
 
 	provinces = {
-		1252 4323 7299 7355 10181 10237 12196 12225 12252 13298
+		1230 1304 1316 2222 4279 4335 4409 10282 12129
 	}
 
 	local_supplies = 0.0 

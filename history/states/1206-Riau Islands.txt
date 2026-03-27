@@ -1,9 +1,9 @@
 state = {
-	id = 1198
-	name = "STATE_1198"
-	manpower = 1111000
+	id = 1206
+	name = "STATE_1206"
+	manpower = 41060
 	
-	state_category = rural
+	state_category = small_island
 
 	history = {
 
@@ -14,11 +14,15 @@ state = {
 
 			infrastructure = 1
 
+			12113 = {
+				naval_base = 1
+			}
+
 		}
 	}
 
 	provinces = {
-		1277 7327 7463 10209 10225 12168 12181 12184 12302 12343
+		12113 
 	}
 
 	local_supplies = 0.0 

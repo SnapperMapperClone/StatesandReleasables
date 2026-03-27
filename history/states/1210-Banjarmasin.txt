@@ -1,24 +1,25 @@
 state = {
-	id = 1198
-	name = "STATE_1198"
-	manpower = 1111000
+	id = 1210
+	name = "STATE_1210"
 	
+	manpower = 425000
+
 	state_category = rural
 
 	history = {
 
 		owner = INS
 		add_core_of = INS
+		add_core_of = DAY
 
 		buildings = {
-
 			infrastructure = 1
-
 		}
+
 	}
 
 	provinces = {
-		1277 7327 7463 10209 10225 12168 12181 12184 12302 12343
+		1225 1416 7296 10178 10266
 	}
 
 	local_supplies = 0.0 
