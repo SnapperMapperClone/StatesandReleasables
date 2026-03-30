@@ -629,7 +629,7 @@
  STATE_332:0 "Labrador"
  STATE_333:1 "North Borneo"
  STATE_334:1 "Kutai"
- STATE_335:0 "Java"
+ STATE_335:0 "Batavia"
  STATE_336:0 "Malaya"
  STATE_337:0 "Faroe Islands"
  STATE_338:0 "Gloucestershire"
@@ -981,7 +981,7 @@
  HUN_STATE_664: "Felvidék" # was Abaúj-Torna
  STATE_665:1 "Gabès"
  STATE_666:1 "Norrbotten"
- STATE_667:0 "Lesser Sunda Islands"
+ STATE_667:0 "East Sunda Islands"
  STATE_668:0 "The Moluccas"
  STATE_669:1 "West Papua"
  STATE_670:0 "Vientiane"
@@ -1815,3 +1815,8 @@
  STATE_1215: "Yogyakarta"
  STATE_1216: "East Java"
  STATE_1217: "Madura"
+
+ STATE_1218: "Bali"
+ STATE_1219: "West Sunda Islands"
+ STATE_1220: "West Timor"
+ STATE_1221: "Ambeno"

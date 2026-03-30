@@ -1,0 +1,26 @@
+state={
+	id=1220
+	name="STATE_1220"
+
+	history={
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 1
+			1355 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+
+	provinces={
+		1339 1355 4358 
+	}
+	manpower=412062
+	buildings_max_level_factor=1
+	state_category="rural"
+
+	local_supplies=3.0 
+}

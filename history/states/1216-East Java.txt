@@ -1,0 +1,29 @@
+
+state={
+	id=1216
+	name="STATE_1216"
+	manpower = 9411960
+	
+	state_category = city
+
+	history={
+		owner = INS
+		add_core_of = INS
+		victory_points = {
+			4608 3 
+		}
+
+		buildings = {
+			infrastructure = 3 
+			4608 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces={
+		1209 4390 4608 7654 10479 10491 12472 
+	}
+
+	local_supplies=5.0 
+}

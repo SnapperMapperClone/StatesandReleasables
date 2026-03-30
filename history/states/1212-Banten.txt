@@ -1,0 +1,23 @@
+
+state={
+	id=1212
+	name="STATE_1212" # Java
+	manpower = 2340318
+	
+	state_category = town
+
+	history={
+		owner = INS
+		add_core_of = INS
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1398 10279 
+	}
+
+	local_supplies=5.0 
+}
