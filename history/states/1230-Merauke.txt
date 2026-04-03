@@ -1,0 +1,26 @@
+state = {
+	id = 1230
+	name = "STATE_1230"
+	manpower = 123840
+
+	state_category = pastoral
+
+	history = {
+
+		owner = INS
+		add_core_of = INS
+		add_core_of = WPG
+
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		1602 1617 1629 4593 7269 7627 10505 12457 
+	}
+
+	local_supplies = 1.0 
+}

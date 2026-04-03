@@ -1,24 +1,24 @@
 
 state={
-	id=668
-	name="STATE_668"
-	manpower = 579100
+	id=1228
+	name="STATE_1228"
+	manpower = 55090
 	
-	state_category = rural
+	state_category = small_island
 
 	history={
 		owner = INS
 		add_core_of = INS
 		buildings = {
-			infrastructure = 2
-			1574 = {
+			infrastructure = 1
+			1351 = {
 				naval_base = 1
 			}
 		}
 	}
 
 	provinces={
-		1574 7557 10409 
+		1351 
 	}
 
 	local_supplies=0.0 

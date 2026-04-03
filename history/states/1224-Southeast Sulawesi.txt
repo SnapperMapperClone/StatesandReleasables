@@ -1,0 +1,25 @@
+state={
+	id=1224
+	name="STATE_1224"
+	manpower = 567348
+	resources={
+		rubber=4
+	}
+
+	state_category = rural
+
+
+	history= {
+		owner = INS
+		add_core_of = INS
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		4564 10222 10450 12444
+	}
+
+	local_supplies=0.0 
+}

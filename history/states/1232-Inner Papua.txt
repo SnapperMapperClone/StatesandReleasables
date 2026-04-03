@@ -1,0 +1,27 @@
+state = {
+	id = 1232
+	name = "STATE_1232"
+
+	manpower = 153840
+	state_category = "pastoral"
+	impassable = yes
+
+	history = {
+
+		add_core_of = PNG
+		owner = AST
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		2129 5135 10954 11004 11018 12428 12931 
+	}
+
+	
+	buildings_max_level_factor = 1
+	local_supplies = 0.0 
+}

@@ -1,0 +1,26 @@
+state = {
+	id = 1231
+	name = "STATE_1231"
+	manpower = 57150
+
+	state_category = pastoral
+	impassable = yes
+
+	history = {
+
+		owner = INS
+		add_core_of = INS
+		add_core_of = WPG
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = {
+		7570 8235 8250 10436 10990
+	}
+
+	local_supplies = 1.0 
+}

@@ -1,24 +1,24 @@
 
 state={
-	id=668
-	name="STATE_668"
+	id=1227
+	name="STATE_1227"
 	manpower = 579100
 	
-	state_category = rural
+	state_category = pastoral
 
 	history={
 		owner = INS
 		add_core_of = INS
 		buildings = {
-			infrastructure = 2
-			1574 = {
+			infrastructure = 1
+			7413 = {
 				naval_base = 1
 			}
 		}
 	}
 
 	provinces={
-		1574 7557 10409 
+		1419 1437 7369 7413 10141 10342
 	}
 
 	local_supplies=0.0 
