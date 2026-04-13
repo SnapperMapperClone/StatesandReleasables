@@ -1,11 +1,11 @@
+
 state={
-	id=662
-	name="STATE_662"
-	manpower = 13213
+	id=1236
+	name="STATE_1236"
+	manpower = 20215
 	
 	state_category = wasteland
-	
-	
+
 	history={
 		owner = ITA
 		buildings = {
@@ -13,9 +13,9 @@ state={
 		}
 		add_core_of = LBA
 	}
-	
+
 	provinces={
-		4200 7076 8069 13460
+		1041 4047 10046 10117
 	}
 
 	local_supplies=0.0 
