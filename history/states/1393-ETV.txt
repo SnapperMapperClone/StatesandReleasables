@@ -1,0 +1,22 @@
+
+state={
+	id=1393
+	name="STATE_1393" 
+	manpower = 491705
+	
+	state_category = town
+
+	history={
+		owner = SAF
+		buildings = {
+			industrial_complex = 1
+		}
+		add_core_of = SAF
+	}
+
+	provinces={
+		2171 10566 13753 13755 13762 
+	}
+
+	local_supplies=0.0 
+}

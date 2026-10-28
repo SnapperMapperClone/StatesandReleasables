@@ -1,0 +1,22 @@
+state={
+	id=1357
+	name="STATE_1357"
+	
+	state_category = wasteland
+
+	history={
+		owner = ENG
+		buildings = {
+
+		}
+			add_core_of = TZN
+	}
+
+	provinces={
+		4171 13671 
+	}
+	manpower=237993
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

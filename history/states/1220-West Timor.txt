@@ -4,21 +4,24 @@ state={
 
 	history={
 		owner = INS
-		add_core_of = INS
+		add_core_of = TML
 		buildings = {
 			infrastructure = 1
+			air_base = 1
 			1355 = {
 				naval_base = 1
 
 			}
 		}
-
+		victory_points = {
+			1355 1
+		}
 	}
 
 	provinces={
 		1339 1355 4358 
 	}
-	manpower=412062
+	manpower=216435
 	buildings_max_level_factor=1
 	state_category="rural"
 

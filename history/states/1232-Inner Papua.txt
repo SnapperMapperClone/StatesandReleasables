@@ -3,8 +3,9 @@ state = {
 	name = "STATE_1232"
 
 	manpower = 153840
-	state_category = "pastoral"
+	state_category = "enclave"
 	impassable = yes
+	force_link_ownership_to = 523 # Papua 
 
 	history = {
 
@@ -12,7 +13,7 @@ state = {
 		owner = AST
 
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
 		}
 
 	}

@@ -1,0 +1,25 @@
+state = {
+	id = 1364
+	name = "STATE_1364"
+	manpower = 371650
+	state_category = rural
+
+	history = {
+
+		owner = POR
+		add_core_of = ANG
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		8219 13849 
+	}
+
+	buildings_max_level_factor = 1.000
+	
+	local_supplies = 0.000
+}

@@ -1,0 +1,33 @@
+state = {
+	id = 1267
+	name = "STATE_1267"
+
+	resources = {
+		chromium = 12.000 #added due to portugal setup
+		coal = 3 #initial distribution
+	}
+
+	manpower = 950000
+	
+	state_category = rural
+	
+	history = {
+
+		owner = MOR
+		add_core_of = MOR
+
+		victory_points = {
+			10070 2 # Rabat
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1079 1194 10070 
+	}
+
+	local_supplies = 0.0 
+}

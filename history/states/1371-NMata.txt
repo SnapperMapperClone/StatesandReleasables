@@ -1,0 +1,24 @@
+state={
+	id=1371
+	
+	state_category = pastoral
+	
+	name="STATE_1371"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ZIM
+	}
+
+	provinces={
+		1874 13794 13800 13806 
+	}
+	manpower=142450
+	buildings_max_level_factor=1.000
+
+	local_supplies=3.0 
+}

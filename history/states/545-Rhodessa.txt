@@ -1,7 +1,7 @@
 state={
 	id=545
 	
-	state_category = pastoral
+	state_category = town
 	
 	name="STATE_545"
 
@@ -9,7 +9,6 @@ state={
 		owner = ENG
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
 			10929 1 
@@ -18,9 +17,9 @@ state={
 	}
 
 	provinces={
-		1874 2151 2216 4851 7842 10929
+		10929 13801 13803 
 	}
-	manpower=1171336
+	manpower=297166
 	buildings_max_level_factor=1.000
 
 	local_supplies=3.0 

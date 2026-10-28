@@ -1,0 +1,24 @@
+state = {
+	id = 1275
+	name = "STATE_1275" # Tombouctou
+	manpower = 17020
+	
+	state_category = wasteland
+
+	history = {
+
+		owner = FRA
+		add_core_of = MLI
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = {
+		2068 10868
+	}
+
+	local_supplies = 0.0 
+}

@@ -3,15 +3,21 @@ state={
 	name="STATE_1225"
 	manpower = 242636
 
-	state_category = pastoral
+	state_category = rural
 
 
 	history= {
 		owner = INS
-		add_core_of = INS
+		add_core_of = TNE
+		add_core_of = GOW
+		set_resistance = 0
+		set_compliance = 40
 
 		buildings = {
 			infrastructure = 1
+		}
+		victory_points = {
+			10169 1
 		}
 	}
 	provinces={

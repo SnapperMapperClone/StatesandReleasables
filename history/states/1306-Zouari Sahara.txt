@@ -1,0 +1,28 @@
+state = {
+	id = 1306
+	name = "STATE_1306"
+	manpower = 1800
+	
+	state_category = wasteland
+	impassable = yes
+	force_link_ownership_to = 1256
+
+	history = {
+
+		owner = FRA
+		add_core_of = CHA
+
+		buildings = {
+			infrastructure = 0
+		}
+		
+	}
+
+	provinces = {
+		13627 
+	}
+	
+	buildings_max_level_factor = 1.000
+
+	local_supplies = 1.0 
+}

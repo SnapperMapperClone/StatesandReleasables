@@ -1,0 +1,21 @@
+
+state={
+	id=1285
+	name="STATE_1285"
+	manpower = 948447
+	
+	state_category = rural
+	history={
+		owner = FRA
+		add_core_of = IVO
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		5070 13515 13521 13526 
+	}
+
+	local_supplies=1.0 
+}

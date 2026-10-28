@@ -1,0 +1,32 @@
+
+state = {
+	id = 1320
+	name = "STATE_1320"
+
+	manpower = 70830
+	state_category = rural
+
+	history = {
+
+		owner = FRA
+		add_core_of = RCG
+
+		victory_points = {
+			12975 1 #Loango
+		}
+
+		buildings = {
+			infrastructure = 2
+			12975 = {
+				naval_base = 1
+			}
+		}
+
+	}
+
+	provinces = {
+		12975 
+	}
+
+	local_supplies = 0.0 
+}

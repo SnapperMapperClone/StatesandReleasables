@@ -1626,6 +1626,12 @@
 				}
 			}
 			ELSE_IF = {
+				limit = {
+                    any_character = {
+                        is_country_leader = yes
+                        is_corps_commander = yes
+                    }
+                }
 				random_character = {
 					limit = {
 						is_country_leader = yes
@@ -5732,6 +5738,10 @@
 			show_ideas_tooltip = KHM_khoya_niyaz
 			custom_effect_tooltip = available_political_advisor
 			show_ideas_tooltip = KHM_muhammad_amin_bughra
+
+			hidden_effect = {
+				set_country_flag = KHM_established_the_kashgar_clique_flag
+			}
 
 		}
 

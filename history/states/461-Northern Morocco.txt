@@ -2,12 +2,7 @@ state = {
 	id = 461
 	name = "STATE_461"
 
-	resources = {
-		chromium = 12.000 #added due to portugal setup
-		coal = 3 #initial distribution
-	}
-
-	manpower = 3197719
+	manpower = 1260000
 	
 	state_category = rural
 	
@@ -18,10 +13,6 @@ state = {
 
 		victory_points = {
 			7069 10 # Casablanca
-		}
-
-		victory_points = {
-			10070 2 # Rabat
 		}
 
 		buildings = {
@@ -35,7 +26,7 @@ state = {
 	}
 
 	provinces = {
-		989 1079 1111 1194 4084 4097 4139 7069 7100 7116 7173 10013 10023 10070 11943 11987 12042 
+		4139 7069 10023 11943 
 	}
 
 	local_supplies = 0.0 

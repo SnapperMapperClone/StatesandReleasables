@@ -1,0 +1,22 @@
+state={
+	id=1276
+	name="STATE_1276"
+	manpower = 748000
+	state_category=rural
+
+	history={
+		owner = FRA
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		5045 12794 
+	}
+	buildings_max_level_factor=1.000
+	
+	local_supplies=2.000
+}

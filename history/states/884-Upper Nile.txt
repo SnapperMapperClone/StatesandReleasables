@@ -1,10 +1,13 @@
 state = {
 	id=884
 	name = "STATE_884"  # Upper Nile 
-	manpower = 1040121
-	state_category = pastoral
+	manpower = 740121
+	state_category = rural
 
 	history = {
+		victory_points = {
+			2096 1 
+		}
 		owner = ENG
 		add_core_of = SUD
 		buildings = {
@@ -15,7 +18,7 @@ state = {
 	}
 
 	provinces = {
-		2096 10859 10877 12800 
+		2096 7996 10859 10877 
 	}
 
 	buildings_max_level_factor = 1.000

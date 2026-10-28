@@ -1,0 +1,23 @@
+
+state={
+	id=1264
+	name="STATE_1264"
+	manpower = 77090
+	
+	state_category = rural
+
+	history={
+		owner = SPR
+		add_core_of = MOR
+		add_core_of = RIF
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13498
+	}
+
+	local_supplies = 0.0 
+}

@@ -4,20 +4,23 @@ state={
 
 	history={
 		owner = SIA
+		add_core_of = SIA
 		buildings = {
 			infrastructure = 1
 		}
-		
-		
-		add_core_of = SIA
-
+		victory_points = {
+			12224 1
+		}
+		victory_points = {
+			7225 1
+		}
 	}
 
 	provinces={
-		1244 7292 10293 
+		12224 10293 7225 4433 1244 7292
 	}
-	manpower=250310
+	manpower=723155
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=town
 	local_supplies=1
 }

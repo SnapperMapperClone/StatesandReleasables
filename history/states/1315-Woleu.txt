@@ -1,0 +1,22 @@
+state={
+	id=1315
+	name="STATE_1315"
+
+	history={
+		owner = FRA
+		add_core_of = GAB
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		13599 13603 
+	}
+	manpower=60530
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=1.0 
+}

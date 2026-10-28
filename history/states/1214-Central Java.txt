@@ -4,7 +4,7 @@ state={
 	name="STATE_1214"
 	manpower = 9555233
 	
-	state_category = city
+	state_category = large_town
 	
 	resources={
 		rubber=112
@@ -14,14 +14,25 @@ state={
 	history={
 		owner = INS
 		add_core_of = INS
+		victory_points = {
+			4434 1 #Purwokerto
+		}
+		victory_points = {
+			13481 15 #Semarang
+		}
+		victory_points = {
+			13451 3 #Surakarta
+		}
 
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
 		}
 	}
 
 	provinces={
-		1413 4434 7223 7642 12277 12293 13451
+		1413 4434 7223 7642 12277 12293 13451 13479 13481
 	}
 
 	local_supplies=5.0 

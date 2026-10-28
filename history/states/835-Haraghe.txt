@@ -1,7 +1,7 @@
 state = {
 	id = 835 # Hararghe
 	name = "STATE_835"
-	manpower = 1500000
+	manpower = 1205000
 	resources = {
 	}
 	
@@ -29,18 +29,11 @@ state = {
 		}
 		
 		victory_points = { 
-			7980 2 
-		}
-		victory_points = { 
 			13249 3
-		}
-		victory_points = { 
-			12812 1
 		}
 		
 		owner = ETH
 		add_core_of = ETH
-		add_core_of = SOM
 		add_core_of = HAR
 
 		1936.6.1 = {
@@ -50,7 +43,7 @@ state = {
 	}
 
 	provinces = {
- 		7980 12714 12757 12812 13249 13253
+ 		13249 
  	}
 
 	local_supplies=0.0 

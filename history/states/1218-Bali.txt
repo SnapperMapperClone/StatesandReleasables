@@ -4,19 +4,25 @@ state={
 
 	history={
 		owner = INS
-		add_core_of = INS
+		add_core_of = BLI
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
+			13474 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			13474 3 # Denpassar
 		}
 
 	}
 
 	provinces={
-		4273 
+		4273 13474 13477
 	}
 	manpower=892252
 	buildings_max_level_factor=1
-	state_category="rural"
-
-	local_supplies=3.0 
+	state_category=small_island
+	local_supplies=0.0 
 }

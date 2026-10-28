@@ -9,8 +9,8 @@ state = {
 	history = {
 
 		owner = INS
-		add_core_of = INS
 		add_core_of = DAY
+		add_core_of = GOW
 
 		buildings = {
 			infrastructure = 1

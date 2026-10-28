@@ -1,0 +1,23 @@
+
+state={
+	id=1332
+	name = "STATE_1332"
+	manpower = 595487
+
+	history={
+		owner = ENG
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 1
+		}	
+
+	}
+
+	provinces={
+		4138 4961 4963 8105 10745 12796 12826 12836 12881 
+	}
+	
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

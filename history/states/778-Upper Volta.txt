@@ -2,7 +2,7 @@
 state={
 	id=778
 	name="STATE_778" # Upper Volta
-	manpower = 3186184
+	manpower = 1870184
 	
 	state_category = pastoral
 	history={
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		2001 7950 7983 8071 10836 12851
+		7983 10836 12851 13490 13535 13540 
 	}
 
 	local_supplies=1.0 

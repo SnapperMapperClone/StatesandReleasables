@@ -1,7 +1,7 @@
 state = {
 	id = 1162
 	name = "STATE_1162"
-	manpower = 463900
+	manpower = 323100
 	
 	state_category = town
 	
@@ -14,6 +14,15 @@ state = {
 
 		owner = MAL
 		add_core_of = MAL
+
+		victory_points = {
+			1291 1 # Alor Setar
+		}
+
+		victory_points = {
+			12144 1 # Kangar 
+		}
+
 		buildings = {
 
 			infrastructure = 2

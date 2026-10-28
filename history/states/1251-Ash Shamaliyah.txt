@@ -1,0 +1,27 @@
+
+state={
+	id=1251
+	name = "STATE_1251"
+	manpower = 16560
+
+	state_category = wasteland
+	impassable = yes
+	force_link_ownership_to = 551
+
+	history={
+		owner = ENG
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 0
+		}
+		
+
+	}
+
+	provinces={
+		1143 10869 10900 
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

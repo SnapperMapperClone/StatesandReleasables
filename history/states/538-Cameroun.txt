@@ -6,7 +6,7 @@ state = {
 	}
 
 	state_category = pastoral
-	manpower = 1693974
+	manpower = 607204
 
 	history = {
 
@@ -31,17 +31,10 @@ state = {
 			infrastructure = 1
 		}
 
-		1939.1.1 = {
-			buildings = {
-				infrastructure = 1
-				industrial_complex = 1
-			}
-		}
-
 	}
 
 	provinces = {
-		988 7219 7931 8048 10071 10883 10951 12741 12824 
+		988 7219 10071 13579 13583 13585 13589 13592 13594 13595 13596 13600 
 	}
 	
 	buildings_max_level_factor = 1.000

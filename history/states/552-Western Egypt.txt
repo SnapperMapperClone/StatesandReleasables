@@ -5,7 +5,7 @@ state = {
 	
 	state_category = wasteland
 	impassable = yes
-	force_link_ownership_to = 456 # Aswan
+	force_link_ownership_to = 1250
 
 	history = {
 
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		1143 2064 7216 10097 10127 10869 10907 12099 12733 12816 
+		2064 10127 12099 
 	}
 
 	local_supplies = 0.0 

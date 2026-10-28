@@ -1,0 +1,24 @@
+state = {
+	id = 1294
+	name = "STATE_1294"
+	manpower = 203600
+	
+	state_category = pastoral
+
+	history = { 
+
+		owner = FRA
+		add_core_of = NGR
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		7939 10754 10917 
+	}
+
+	local_supplies = 1.0 
+}

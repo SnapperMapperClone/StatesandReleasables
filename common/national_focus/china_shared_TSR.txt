@@ -113,8 +113,8 @@ shared_focus = {
 		OR = {
 			has_government = neutrality
 			GER = { has_government = ROOT }
-			GER_will_support = yes
 		}
+		GER_will_support = yes
 		NOT = {
 			has_war_with = GER
 		}
@@ -1074,9 +1074,9 @@ shared_focus = {
 		OR = {
 			has_government = neutrality
 			SOV = { has_government = ROOT }
-			SOV_will_support = yes
 		}
-		not = {
+		SOV_will_support = yes
+		NOT = {
 			has_War_with = SOV
 		}
 		SOV = {
@@ -1285,9 +1285,9 @@ shared_focus = {
 		OR = {
 			has_government = neutrality
 			FRA = { has_government = ROOT }
-			FRA_will_support = yes
 		}
-		not = {
+		FRA_will_support = yes
+		NOT = {
 			has_war_with = FRA
 		}
 		FRA = {
@@ -2147,8 +2147,12 @@ shared_focus = {
 	}
 
 	bypass = {
-		NOT = { country_exists = TIB }
-		TIB = { is_subject_of = ROOT }
+		TIB = {
+			OR = {
+				exists = no
+				is_subject_of = ROOT
+			}
+		}
 	}
 
 	cancel_if_invalid = yes
@@ -2194,7 +2198,9 @@ shared_focus = {
 
 	bypass = {
 		OR = {
-			NOT = { country_exists = TIB }	
+			TIB = {
+				exists = no
+			}
 			has_war_with = TIB
 			has_wargoal_against = TIB
 		}
@@ -2482,11 +2488,19 @@ shared_focus = {
 					owns_state = 286
 					owns_state = 741
 					owns_state = 1017
+					owns_state = 1066 
+					owns_state = 1067 
+					owns_state = 1069 
+					owns_state = 1068 
 					controls_state = 671
 					controls_state = 670
 					controls_state = 286
 					controls_state = 741
 					controls_state = 1017
+					controls_state = 1066 
+					controls_state = 1067 
+					controls_state = 1069 
+					controls_state = 1068 
 				}
 			}
 			custom_effect_tooltip = CHI_overlordship_over_indochina_tt
@@ -2496,7 +2510,7 @@ shared_focus = {
 						type = take_state_focus
 						target = PREV
 						expire = 0
-						generator = { 671 670 286 741 1017 } #TODO_WTT_CODE - ignore states that are not owned or controlled by country
+						generator = { 671 670 286 741 1017 1066 1067 1068 1069 } 
 					}
 				}
 			}
@@ -2773,6 +2787,10 @@ shared_focus = {
 		controls_state = 670
 		controls_state = 286
 		controls_state = 741
+		controls_state = 1066 
+		controls_state = 1067 
+		controls_state = 1068 
+		controls_state = 1069 
 	}
 
 	cancel_if_invalid = yes
@@ -2788,11 +2806,19 @@ shared_focus = {
 					owns_state = 286
 					owns_state = 741
 					owns_state = 1017
+					owns_state = 1066 
+					owns_state = 1067 
+					owns_state = 1068 
+					owns_state = 1069 
 					controls_state = 671
 					controls_state = 670
 					controls_state = 286
 					controls_state = 741
 					controls_state = 1017
+					controls_state = 1066 
+					controls_state = 1067 
+					controls_state = 1068 
+					controls_state = 1069 
 				}
 			}
 			custom_effect_tooltip = CHI_overlordship_over_indochina_tt
@@ -2802,7 +2828,7 @@ shared_focus = {
 						type = take_state_focus
 						target = PREV
 						expire = 0
-						generator = { 671 670 286 741 1017 } #TODO_WTT_CODE - ignore states that are not owned or controlled by country
+						generator = { 671 670 286 741 1017 1066 1067 1068 1069 } 
 					}
 				}
 			}
@@ -3100,9 +3126,9 @@ shared_focus = {
 		OR = {
 			has_government = neutrality
 			ENG = { has_government = ROOT }
-			ENG_will_support = yes
 		}
-		not = {
+		ENG_will_support = yes
+		NOT = {
 			has_War_with = ENG
 		}
 		ENG = {
@@ -3838,10 +3864,10 @@ shared_focus = {
 
 	available = {
 		OR = {
-			USA_will_support = yes
 			has_government = neutrality
 			USA = { has_government = ROOT }
 		}
+		USA_will_support = yes
 		USA = {
 			has_capitulated = no
 			NOT = {
@@ -4335,7 +4361,12 @@ shared_focus = {
 
 	available = {
 		OR = {
-			JAP = { has_government = ROOT }
+			JAP = { 
+				AND = {
+					has_government = ROOT 
+					exists = yes 
+				}
+			}
 			JAP_will_support = yes
 		}
 		NOT = { has_wargoal_against = JAP }

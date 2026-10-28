@@ -1,9 +1,9 @@
 state = {
 	id = 1195
 	name = "STATE_1195"
-	manpower = 362970
+	manpower = 1023100
 	
-	state_category = rural
+	state_category = town
 	
 	resources = {
 		rubber = 40 # was: 848
@@ -15,14 +15,24 @@ state = {
 		owner = MAL
 		add_core_of = MAL
 
+		victory_points = {
+			13484 2 # Johor Bahru 
+		}
+
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
+
+			13484 = {
+				naval_base = 1
+			}
+
 		}
 		
 	}
 
 	provinces = {
-		4367 4424 7427 10313 
+		4424 7427 10313 13484
 	}
 
 	local_supplies = 0.0 

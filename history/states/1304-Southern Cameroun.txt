@@ -1,0 +1,24 @@
+
+state={
+	id=1304
+	name="STATE_1304" # Cameroon
+	manpower = 659620
+	
+	state_category = pastoral
+
+	history={
+		owner = ENG
+		add_core_of = CMR
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		13506 13512 
+	}
+
+	local_supplies=0.0 
+}

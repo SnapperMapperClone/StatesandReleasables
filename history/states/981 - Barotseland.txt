@@ -2,8 +2,8 @@ state = {
 	id = 981
 	name = "STATE_981" # Barotseland
 	
-	state_category = rural
-	manpower = 690043
+	state_category = pastoral
+	manpower = 301610
 
 	resources = {
 		chromium = 16
@@ -26,7 +26,7 @@ state = {
 	}
 
 	provinces = {
-		697 7872 10538 12677
+		697 10538 12677 13817 13825 13826 13828 
 	}
 	
 	buildings_max_level_factor = 1.000

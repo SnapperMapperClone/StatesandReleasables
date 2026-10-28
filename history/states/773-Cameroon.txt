@@ -2,7 +2,7 @@
 state={
 	id=773
 	name="STATE_773" # Cameroon
-	manpower = 2945782
+	manpower = 965850
 	
 	state_category = rural
 
@@ -16,15 +16,12 @@ state={
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 1
-			6039 = {
-				naval_base = 1
-			}
 		}
 
 	}
 
 	provinces={
-		2080 5036 5054 6039 7963 9137 11194 
+		2080 5036 5054 13612 
 	}
 
 	local_supplies=0.0 

@@ -512,11 +512,11 @@ characters = {
 		}
 		corps_commander = {
 			traits = {  }
-			skill = 1
+			skill = 2
 			attack_skill = 1
 			defense_skill = 1
-			planning_skill = 1
-			logistics_skill = 1
+			planning_skill = 3
+			logistics_skill = 2
 			legacy_id = 3
 		}
 	}
@@ -3166,7 +3166,7 @@ characters = {
 					has_completed_focus = GER_reestablish_free_elections 
 				}
 				ELSE = {
-					has_completed_focus = GER_re_establish_free_elections_ww
+					has_completed_focus = GER_monarchist_sentiment
 				}
 			}
 			traits = {

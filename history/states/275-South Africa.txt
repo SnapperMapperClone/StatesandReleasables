@@ -2,7 +2,7 @@
 state={
 	id=275
 	name="STATE_275" # Transvaal
-	manpower = 3680363
+	manpower = 1565063
 	
 	state_category = city
 	
@@ -17,7 +17,7 @@ state={
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
-			industrial_complex = 5
+			industrial_complex = 2
 			air_base = 3
 		}
 		victory_points = {
@@ -27,7 +27,7 @@ state={
 	}
 
 	provinces={
-		1688 2171 2213 5106 5217 5231 10400 10566 10668 12064 12648 
+		10400 13760 
 	}
 
 	local_supplies=0.0 

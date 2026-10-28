@@ -1,0 +1,21 @@
+state=
+{
+	id = 1345
+	name = "STATE_1345"
+	manpower = 287606
+	
+	state_category = pastoral
+	
+	history={
+		owner = ITA
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		2063 8164 10928 
+	}
+
+	local_supplies=0.0 
+}

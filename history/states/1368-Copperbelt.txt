@@ -1,0 +1,24 @@
+state = {
+	id = 1368
+	name = "STATE_1368"
+	
+	state_category = rural
+	manpower = 178300 
+
+	history = {
+
+		owner = ENG
+		add_core_of = ZAM
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		12504 13831 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0 
+}

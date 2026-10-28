@@ -1,0 +1,24 @@
+state = {
+	id = 1274
+	name = "STATE_1274"
+	manpower = 8210
+	
+	state_category = wasteland
+
+	history = {
+
+		owner = FRA
+		add_core_of = MRT
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = {
+		7943 8035 10779 10838 13503 13505
+	}
+
+	local_supplies = 0.0 
+}

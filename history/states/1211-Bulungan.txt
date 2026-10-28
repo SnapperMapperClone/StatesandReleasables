@@ -20,6 +20,13 @@ state = {
 			}
 
 		}
+	victory_points = {
+		10325 1 # Tanjung Selor 
+	}
+
+	victory_points = {
+		7415 1 # Tarakan
+	}
 
 	}
 

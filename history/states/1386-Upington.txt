@@ -1,0 +1,23 @@
+state = {
+	id = 1386
+	name = "STATE_1386" # Cape
+	manpower = 24000
+
+	state_category = pastoral
+
+	history = {
+
+		owner = SAF
+		add_core_of = SAF
+
+		buildings = {
+			infrastructure = 1
+		}	
+	}
+
+	provinces = {
+		1509 5203 13742 13744 13745 13751 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1331
+	name = "STATE_1331"
+	manpower = 17034
+	state_category = wasteland
+
+	history = {
+		owner = ENG
+		add_core_of = SUD
+		add_claim_by = EGY
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		13647 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

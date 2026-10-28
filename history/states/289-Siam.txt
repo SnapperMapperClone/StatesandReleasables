@@ -1,38 +1,26 @@
 state={
 	id=289
 	name="STATE_289"
-	resources={
-		rubber=8.000
-		tungsten=2.000
-	}
 
 	history={
 		owner = SIA
 		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 5
-			air_base = 3
-			7408 = {
-				naval_base = 3
-
-			}
-
+			infrastructure = 1
+		}
+		add_core_of = SIA
+		victory_points = {
+			10398 1  #Petchabun
 		}
 		victory_points = {
-			7408 10 
+			10221 5  #Ayutthaya
 		}
-		
-		
-		add_core_of = SIA
 
 	}
 
 	provinces={
-		1427 4433 4566 7225 7338 7353 7367 7408 7544 7572 10221 10250 10398 10411 12173 12224 12345 
+		4566 7338 7353 7367 7544 7572 10221 10398 10411 12173 12345 
 	}
-	manpower=7487030
+	manpower=5172934
 	buildings_max_level_factor=1.000
-	state_category=metropolis
-	local_supplies=1
+	state_category=town
 }

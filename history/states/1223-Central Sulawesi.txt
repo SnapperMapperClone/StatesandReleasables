@@ -1,6 +1,9 @@
 state={
 	id=1223
 	name="STATE_1223"
+	resources={
+		rubber = 5
+	}
 	manpower = 631220
 
 	state_category = rural
@@ -8,7 +11,10 @@ state={
 
 	history= {
 		owner = INS
-		add_core_of = INS
+		add_core_of = TNE
+		add_core_of = GOW
+		set_resistance = 0
+		set_compliance = 40
 
 		buildings = {
 			infrastructure = 1

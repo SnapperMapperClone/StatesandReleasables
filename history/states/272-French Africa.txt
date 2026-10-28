@@ -2,12 +2,9 @@
 state={
 	id=272
 	name="STATE_272"
-	manpower = 1638000
-	resources={
-		steel=3 # was: 4
-	}
+	manpower = 210400
 	
-	state_category = pastoral
+	state_category = rural
 
 	history={
 		owner = FRA
@@ -25,7 +22,7 @@ state={
 	}
 
 	provinces={
-		2100 4948 7972 8015 12710 12834 
+		4948 
 	}
 
 	local_supplies=1.0 

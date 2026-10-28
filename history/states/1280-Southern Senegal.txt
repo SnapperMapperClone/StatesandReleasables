@@ -1,0 +1,25 @@
+
+state={
+	id=1280
+	name="STATE_1280"
+	manpower = 408623
+	resources={
+		steel=3
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = FRA
+		add_core_of = SEN
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		2100 7972 
+	}
+
+	local_supplies=1.0 
+}

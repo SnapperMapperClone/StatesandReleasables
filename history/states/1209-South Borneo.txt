@@ -13,13 +13,18 @@ state = {
 	history = {
 
 		owner = INS
-		add_core_of = INS
 		add_core_of = DAY
 
 
 		buildings = {
 			infrastructure = 1
+			12110 = {
+				naval_base = 2
+			}
+		}
 
+		victory_points = {
+			12110 2 # Banjarmasin 
 		}
 
 	}

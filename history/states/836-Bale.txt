@@ -1,7 +1,7 @@
 state = {
 	id = 836 # Bale
 	name = "STATE_836"
-	manpower = 800000
+	manpower = 665000
 	resources = {
 	}
 	
@@ -31,8 +31,8 @@ state = {
 		
 		owner = ETH
 		add_core_of = ETH
-		add_core_of = SOM
 		add_core_of = ORO
+		add_core_of = HAR
 
 		1936.6.1 = {
 			owner = ITA
@@ -41,7 +41,7 @@ state = {
 	}
 
 	provinces = {
- 		4995 10775 13248
+ 		10775 13248
  	}
 
 	local_supplies = 0.0 

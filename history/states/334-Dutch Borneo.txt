@@ -9,30 +9,27 @@ state = {
 	history = {
 
 		owner = INS
-		add_core_of = INS
 		add_core_of = DAY
+		add_core_of = GOW
 
 		victory_points = {
 			10237 1 # Balikpapan
 		}
+		victory_points = {
+			12225 3 # Balikpapan 
+		}
 
 		buildings = {
 			infrastructure = 1
-
-			10237 = {
-				naval_base = 3
-			}
-
-			13298 = {
-				naval_base = 1
-			}
+			industrial_complex = 1
+			synthetic_refinery = 1
 
 		}
 
 	}
 
 	provinces = {
-		1252 4323 7299 10181 10237 12196 12225 12252 13298
+		1252 4323 7299 10181 10237 12196 12225 12252 
 	}
 
 	local_supplies = 0.0 

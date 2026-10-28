@@ -1,0 +1,23 @@
+state = {
+	id = 1252
+	name = "STATE_1252"
+	manpower = 951
+	
+	state_category = wasteland
+	
+	history = {
+
+		owner = ENG
+		add_core_of = SUD
+		
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces = {
+		7148 
+	}
+
+	local_supplies = 0.0 
+}

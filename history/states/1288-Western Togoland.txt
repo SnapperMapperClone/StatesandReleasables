@@ -1,0 +1,24 @@
+state = {
+	id = 1288
+	name = "STATE_1288"
+	state_category = pastoral
+	manpower = 64646
+
+	history = {
+
+		owner = ENG
+		add_core_of = GHA
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		12785 13522 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0 
+}

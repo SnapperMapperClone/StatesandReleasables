@@ -2,9 +2,9 @@
 state={
 	id=779
 	name="STATE_779" # Ivory Coast
-	manpower = 3850734
+	manpower = 2014150
 	
-	state_category = pastoral
+	state_category = rural
 	history={
 		owner = FRA
 		add_core_of = IVO
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		5013 5070 8065 8122 10762 10803
+		10762 10803 13508 
 	}
 
 	local_supplies=1.0 

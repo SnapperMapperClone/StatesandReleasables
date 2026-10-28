@@ -3,7 +3,7 @@ state = {
 	name = "STATE_1203"
 	manpower = 1181490
 	
-	state_category = town
+	state_category = rural
 	
 	resources = {
 		rubber = 35 
@@ -13,10 +13,12 @@ state = {
 	history = {
 
 		owner = INS
-		add_core_of = INS
+		add_core_of = SSI
+		set_resistance = 0
+		set_compliance = 60
 
 		victory_points = {
-			4652 1 # Medan
+			4652 10
 		}
 
 		buildings = {

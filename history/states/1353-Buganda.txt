@@ -1,0 +1,22 @@
+state={
+	id=1353
+	name="STATE_1353"
+
+	state_category = pastoral
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = UGA
+	}
+
+	provinces={
+		3854 7088 13679
+	}
+	manpower=845790
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

@@ -13,10 +13,19 @@ state={
 		
 		owner = FRA
 		add_core_of = VIN
-		add_core_of = CHM
+
+		victory_points = {
+			4401 5 # Saigon
+		}
 
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+
+			4401 = {
+				naval_base = 4
+			}
 		}
 
 	}

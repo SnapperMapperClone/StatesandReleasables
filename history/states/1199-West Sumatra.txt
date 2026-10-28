@@ -3,12 +3,12 @@ state = {
 	name = "STATE_1199"
 	manpower = 1049400
 	
-	state_category = town
+	state_category = rural
 	
 	resources = {
-		rubber = 30 # was: 268
-		oil = 12 # was: 24
-		aluminium = 28 # was: 50
+		rubber = 7
+		oil = 9
+		coal = 7
 	}
 
 	history = {
@@ -20,6 +20,9 @@ state = {
 
 			infrastructure = 1
 
+		}
+		victory_points = {
+			10382 5
 		}
 	}
 

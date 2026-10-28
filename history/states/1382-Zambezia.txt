@@ -1,0 +1,23 @@
+
+state={
+	id=1382
+	name="STATE_1382"
+	manpower = 88000
+	
+	state_category = pastoral
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BOT
+
+	}
+
+	provinces={
+		1580 12963 13783 13784 13785 13792 13798 
+	}
+
+	local_supplies=2.0 
+}

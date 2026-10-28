@@ -1,0 +1,28 @@
+state = {
+	id = 1370
+	name = "STATE_1370"
+	
+	state_category = pastoral
+	manpower = 190470
+
+	history = {
+
+		owner = ENG
+		add_core_of = ZAM
+
+		victory_points = {
+			5221 1 #Fort Jameson
+		}
+		
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5221 13830 13840 13845 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0 
+}

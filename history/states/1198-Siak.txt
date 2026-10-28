@@ -5,10 +5,17 @@ state = {
 	
 	state_category = rural
 
+	resources = {
+		rubber = 34
+		coal = 10
+	}
+
 	history = {
 
 		owner = INS
-		add_core_of = INS
+		add_core_of = SSI
+		set_resistance = 0
+		set_compliance = 60
 
 		buildings = {
 

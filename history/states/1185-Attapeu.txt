@@ -1,13 +1,19 @@
 state={
 	id=1185
 	name="STATE_1185"
-	manpower = 109000
+	manpower = 259000
 	
 	state_category = pastoral
 
 	history={
 		owner = FRA
 		add_core_of = LAO
+		add_core_of = CPS
+
+		victory_points = {
+			1563 2 # Pakse 
+		}
+		
 		buildings = {
 			infrastructure = 1
 		}

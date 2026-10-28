@@ -1,0 +1,34 @@
+state = {
+	id = 1286
+	name = "STATE_1286"
+	state_category = rural
+	manpower = 707922
+
+	resources = {
+		steel = 2 
+		tungsten = 2
+		chromium = 1
+	} #Maganese
+
+	history = {
+
+		owner = ENG
+		add_core_of = GHA
+
+		victory_points = {
+			12787 1 # Kumasi 
+		}
+
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces = {
+		12787 13513 13517 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0 
+}

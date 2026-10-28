@@ -2,33 +2,32 @@ state={
 	id=667
 	name="STATE_667"
 	resources={
-		rubber=5
+
 	}
 
 	history={
 		owner = INS
 		add_core_of = INS
 		buildings = {
-			infrastructure = 2
-			10175 = {
-				naval_base = 1
-
-			}
-			12234 = {
+			infrastructure = 1
+			4301 = {
 				naval_base = 1
 
 			}
 
 		}
+		victory_points = {
+			4301 1 #Ende
+		}
 
 	}
 
 	provinces={
-		1298 4301 7321 10175 10219 12151 12219 12234 
+		1298 4301 7321 10175 10219 12151 
 	}
 	manpower=1009664
 	buildings_max_level_factor=1
-	state_category="rural"
+	state_category=small_island
 
 	local_supplies=3.0 
 }

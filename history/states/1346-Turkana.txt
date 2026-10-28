@@ -1,0 +1,21 @@
+state={
+	id=1346
+	name="STATE_1346"
+	manpower = 57900
+	state_category = wasteland
+
+	history={
+		owner = ENG
+		buildings = {
+
+		}
+		add_core_of = KEN
+	}
+
+	provinces={
+		11145 13135 13684
+	}
+
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

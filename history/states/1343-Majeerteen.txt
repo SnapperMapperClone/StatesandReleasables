@@ -1,0 +1,21 @@
+state=
+{
+	id = 1343
+	name = "STATE_1343"
+	manpower = 64424
+	
+	state_category = wasteland
+	
+	history={
+		owner = ITA
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	provinces = {
+		1966 10891 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 1365
+	name = "STATE_1365"
+	manpower = 204300
+	state_category = pastoral
+
+	history = {
+
+		owner = POR
+		add_core_of = ANG
+
+		buildings = {
+
+		}
+
+	}
+
+	provinces = {
+		7548 13371 13842 13844 
+	}
+
+	buildings_max_level_factor = 1.000
+	
+	local_supplies = 0.000
+}

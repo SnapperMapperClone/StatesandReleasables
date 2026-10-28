@@ -1,0 +1,35 @@
+state = {
+	id = 1322
+	name = "STATE_1322"
+
+	state_category = pastoral
+	manpower = 355042
+
+	history = {
+
+		owner = BEL
+		add_core_of = COG
+
+		IF = {
+			limit = {
+				has_dlc = "Gotterdammerung"
+			}
+			transfer_state_to = COG
+			add_dynamic_modifier = {
+				modifier = COG_state_loyal_to_free_congo_modifier
+			}
+		}
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		12775 13370 13576 13582 
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.000
+}

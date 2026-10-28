@@ -1,0 +1,24 @@
+
+state={
+	id=1378
+	name="STATE_1378"
+	manpower = 6039
+	state_category = pastoral
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 1
+		}
+		
+		add_core_of = SAF
+		add_core_of = NMB
+
+	}
+
+	provinces={
+		13217 
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

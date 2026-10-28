@@ -1,6 +1,6 @@
 characters = {
 	BUK_mohammed_alim_khan = {
-		name = "Sayyid Mir Muhammad Alim Khan" 
+		name = BUK_mohammed_alim_khan
 		portraits = {
 			civilian = {
 				large = GFX_portrait_TAJ_alim_khan
@@ -13,7 +13,7 @@ characters = {
 		}
 	}
 	BUK_polat_usmon = {
-		name = "Polat Usmon Khodzhayev" 
+		name = BUK_polat_usmon
 		portraits = {
 			civilian = {
 				large = GFX_portrait_Polat_Usmon_Khodzhayev

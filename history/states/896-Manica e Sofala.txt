@@ -1,20 +1,19 @@
 state={
 	id=896
 	name="STATE_896"
-	manpower = 188600
+	manpower = 392690
 	state_category = pastoral
 	history={
 		owner = POR
 		buildings = {
 			infrastructure = 2
-
 		}
 		add_core_of = MZB
 	}
 
 
 	provinces={
-		2120 5155 12935 12950 
+		2120 5155 12935 13797 13804 13818 
 	}
 
 	buildings_max_level_factor=1.000

@@ -1,0 +1,25 @@
+state = {
+	id = 1300
+	name = "STATE_1300"
+	manpower = 175000
+	state_category = pastoral
+
+	history = {
+
+		owner = ENG
+		add_core_of = NGA
+		add_core_of = SOK
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}  
+
+	provinces = {
+		13528 
+	}
+
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

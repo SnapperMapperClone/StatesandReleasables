@@ -1,7 +1,7 @@
 state = {
 	id = 891
 	name = "STATE_891"
-	manpower = 640000
+	manpower = 320000
 	state_category = pastoral
 	
 	resources = {
@@ -20,7 +20,7 @@ state = {
 	}
 
 	provinces = {
-		1552 2126 4735 8054 13372
+		1552 2126 8054 13819 13827 13836
 	}
 	
 	buildings_max_level_factor = 1.000

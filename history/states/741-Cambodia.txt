@@ -5,10 +5,19 @@ state={
 		add_core_of = CAM
 		owner = FRA
 		victory_points = {
-			7376 1
+			7376 3 # Phnom Penh  
+		}
+
+		victory_points = {
+			7432 1 # Kompong Saom
+		}
+
+		victory_points = {
+			4302 2 # Siem Reap
 		}
 		buildings = {
 			infrastructure = 1
+			industrial_complex = 1 
 			7432 = {
 				naval_base = 1
 			}

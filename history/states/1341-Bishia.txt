@@ -1,0 +1,24 @@
+state=
+{
+	id=1341
+	name="STATE_1341"
+	manpower = 179100
+	
+	state_category = pastoral
+	
+	history={
+		owner = ITA
+		add_core_of = ERI
+		victory_points = { #Biscia
+			12723 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		5017 5047 5091 12723 13251
+	}
+
+	local_supplies=0.0 
+}

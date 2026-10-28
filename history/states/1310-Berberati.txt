@@ -1,0 +1,23 @@
+
+state={
+	id=1310
+	name="STATE_1310"
+	manpower = 262181
+	
+	state_category = pastoral
+
+	history={
+		owner = FRA
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		11012 13619 13623 
+	}
+
+	local_supplies=2.0 
+}
