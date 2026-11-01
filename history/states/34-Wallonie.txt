@@ -13,6 +13,7 @@ state = {
 
 		owner = BEL
 		add_core_of = BEL
+		add_core_of = WAL
 
 		victory_points = {
 			3516 5 # Namur

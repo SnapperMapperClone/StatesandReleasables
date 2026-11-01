@@ -13,6 +13,7 @@ state = {
 
 		owner = BEL
 		add_core_of = BEL
+		add_core_of = WAL
 
 		victory_points = {
 			9418 1 # Arlons
@@ -20,9 +21,6 @@ state = {
 
 		buildings = {
 			infrastructure = 1
-
-			# Gileppe Dam
-			3488 = { dam = 1 }
 		}
 		
 	}

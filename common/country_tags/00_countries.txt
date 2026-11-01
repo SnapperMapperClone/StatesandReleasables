@@ -395,7 +395,7 @@ CSC = "countries/Cascadia.txt"
 ONT = "countries/Ontario.txt"
 NFL = "countries/Newfoundland and Labrador.txt"
 CAW = "countries/Western Canada.txt"
-MAR = "countries/Maritimes.txt"
+ACA = "countries/Maritimes.txt"
 
 SON = "countries/Sonora.txt"
 CHP = "countries/Chiapas.txt"
@@ -472,6 +472,7 @@ GIL = "countries/Gilan.txt"
 MAZ = "countries/Mazandaran.txt"
 
 HAZ = "countries/Hazarajat.txt"
+BAD = "countries/Badakhshan.txt"
 
 UYG = "countries/Uyghuristan.txt"
 

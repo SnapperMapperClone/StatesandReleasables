@@ -291,7 +291,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 1901;10037;land;-1;-1;-1;-1;-1;;Algeria-Tripolitania
 1901;7154;land;-1;-1;-1;-1;-1;;Algeria-Tripolitania
-1901;4992-land;-1;-1;-1;-1;-1;;Algeria-Tunis
+1901;4992;land;-1;-1;-1;-1;-1;;Algeria-Gabès
 1901;8061;land;-1;-1;-1;-1;-1;;Algeria
 1901;4903;land;-1;-1;-1;-1;-1;;Algeria
 1901;13462;land;-1;-1;-1;-1;-1;;Algeria

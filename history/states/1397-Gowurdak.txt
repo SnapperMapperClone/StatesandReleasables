@@ -1,0 +1,27 @@
+state = {
+	id = 1397
+	name = "STATE_1397"
+
+	history = {
+	
+		owner = SOV
+		
+		buildings = {
+			infrastructure = 1
+		}
+		
+		add_core_of = SOV
+		add_core_of = TMS
+
+	}
+
+	provinces = {
+		756 1632 9605
+	}
+	manpower = 44508
+	buildings_max_level_factor = 1.000
+	state_category = wasteland
+
+	local_supplies = 4.0 
+	
+}

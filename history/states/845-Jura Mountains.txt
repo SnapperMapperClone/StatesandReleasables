@@ -18,6 +18,7 @@ state={
 			industrial_complex = 2
 		}
 		add_core_of = SWI
+		add_core_of = RMD
 	}
 	provinces={
 		6666 6683 9622 11590 13124 

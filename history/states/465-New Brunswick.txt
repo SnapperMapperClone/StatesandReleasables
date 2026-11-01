@@ -9,7 +9,7 @@ state = {
 
 		owner = CAN
 		add_core_of = CAN
-		add_core_of = MAR
+		add_core_of = ACA
 
 		buildings = {
 			infrastructure = 3 #was: 5
