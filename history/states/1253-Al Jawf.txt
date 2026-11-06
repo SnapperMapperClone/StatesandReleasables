@@ -12,6 +12,7 @@ state = {
 
 		owner = ITA
 		add_core_of = LBA
+		add_core_of = CYR
 
 		buildings = {
 			infrastructure = 0

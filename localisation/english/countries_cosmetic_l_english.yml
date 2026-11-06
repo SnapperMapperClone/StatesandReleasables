@@ -3569,3 +3569,7 @@
  AST_percy_fascism: "$AST$"
  AST_percy_fascism_DEF: "$AST_DEF$"
  AST_percy_fascism_ADJ: "$AST_ADJ$"
+
+ SUD_ENG: "Anglo-Egyptian Sudan"
+ SUD_ENG_DEF: "the Anglo-Egyptian Sudan"
+ SUD_ENG_ADJ: "Sudanese"

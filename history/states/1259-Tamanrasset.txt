@@ -9,6 +9,7 @@ state = {
 
 		owner = FRA
 		add_core_of = ALG
+		add_core_of = AHA
 
 		buildings = {
 			infrastructure = 0

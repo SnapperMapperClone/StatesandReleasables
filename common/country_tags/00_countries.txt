@@ -491,3 +491,9 @@ KRN = "countries/Karen.txt"
 MOS = "countries/Mon.txt"
 
 DAY = "countries/Dayak.txt"
+
+TRP = "countries/Tripolitania.txt"
+CYR = "countries/Cyrenaica.txt"
+AHA = "countries/Kel Ahaggar.txt"
+AZD = "countries/Azawad.txt"
+AGD = "countries/Agadez.txt"

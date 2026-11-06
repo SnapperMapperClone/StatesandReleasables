@@ -11,6 +11,7 @@ state = {
 
 		owner = ITA
 		add_core_of = LBA
+		add_claim_by = CHA
 
 		buildings = {
 			infrastructure = 0

@@ -305,6 +305,11 @@ if = {
 		autonomous_state = autonomy_integrated_puppet
 		freedom_level = 0.5
 	}
+	set_autonomy = {
+		target = SUD
+		autonomous_state = autonomy_colony
+		freedom_level = 0.2
+	}
 
 	else = {
 		puppet = MAL
@@ -314,6 +319,7 @@ if = {
 		puppet = EGY
 		puppet = KUW
 		puppet = OMA
+		puppet = SUD
 	}
 }
 
