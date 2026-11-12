@@ -1,0 +1,25 @@
+state = {
+	id = 1430
+	name = "STATE_1430"
+	manpower = 21030
+	
+	state_category = pastoral
+
+
+	history = {
+		
+		owner = ENG
+		add_core_of = UAE
+
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces = {
+		13864 
+	}
+
+	local_supplies = 4.0 
+}

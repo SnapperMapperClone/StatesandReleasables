@@ -1,0 +1,31 @@
+state = {
+	id = 1421
+	name = "STATE_1421" 
+	manpower = 149870
+	
+	state_category = rural
+
+	history = {
+
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+
+		buildings = {
+			infrastructure = 2
+			4206 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			4206 1 # Tel Aviv
+		}
+		
+	}
+
+	provinces = {
+		4206 
+	}
+
+	local_supplies = 0.0 
+}

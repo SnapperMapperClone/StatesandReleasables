@@ -4,8 +4,7 @@ state={
 	name="STATE_449" # El Agheila
 	manpower = 20216
 	
-	state_category = wasteland
-
+	state_category = pastoral
 	history={
 		owner = ITA
 		buildings = {

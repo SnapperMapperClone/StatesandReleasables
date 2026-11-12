@@ -1,0 +1,25 @@
+state = {
+	id = 1429
+	name = "STATE_1429"
+	manpower = 100
+	
+	state_category = wasteland
+
+
+	history = {
+		
+		owner = ENG
+		add_core_of = UAE
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = {
+		13862 
+	}
+
+	local_supplies = 4.0 
+}

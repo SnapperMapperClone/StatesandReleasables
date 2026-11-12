@@ -1,0 +1,22 @@
+state = {
+	id = 1427
+	name = "STATE_1427"
+	manpower = 374
+
+	history = {
+
+		owner = SAU
+		add_core_of = SAU
+
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = {
+		1955 13865 
+	}
+	state_category = wasteland
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

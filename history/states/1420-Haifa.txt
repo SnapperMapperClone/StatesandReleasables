@@ -1,0 +1,28 @@
+state = {
+	id = 1420
+	name = "STATE_1420" 
+	manpower = 149780
+	
+	state_category = rural
+
+	history = {
+
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			1065 1 # Haifa
+		}
+		
+	}
+
+	provinces = {
+		1065 1201 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=1415
+	name="STATE_1415"
+	manpower = 35290
+	
+	state_category = pastoral
+
+	history={
+		owner = SYR
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SYR	
+
+	}
+
+
+	provinces={
+		13873 
+	}
+
+	local_supplies=2.0 
+}

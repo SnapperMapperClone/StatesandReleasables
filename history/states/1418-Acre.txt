@@ -1,0 +1,24 @@
+state = {
+	id = 1418
+	name = "STATE_1418" 
+	manpower = 91830
+	
+	state_category = rural
+
+	history = {
+
+		owner = PAL
+		add_core_of = PAL
+		add_claim_by = ISR
+
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13872 
+	}
+
+	local_supplies = 0.0 
+}

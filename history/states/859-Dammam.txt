@@ -1,7 +1,7 @@
 state = {
 	id = 859
 	name = "STATE_859"
-	manpower = 440000
+	manpower = 429000
 
 	resources = {
 		oil = 3.000
@@ -25,7 +25,7 @@ state = {
 	}
 	
 	provinces = {
-		1955 4932 10791 10850 12702 
+		4932 10791 12702 
 	}
 	state_category = rural
 	buildings_max_level_factor = 1.000

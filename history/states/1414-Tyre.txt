@@ -1,0 +1,23 @@
+
+state={
+	id=1414
+	name="STATE_1414"
+	manpower = 161290
+	
+	state_category = rural
+
+	history={
+		owner = LEB
+		buildings = {
+			infrastructure = 2
+		}
+
+		add_core_of = LEB
+	}
+
+	provinces={
+		11919 13874 
+	}
+
+	local_supplies=0.0 
+}

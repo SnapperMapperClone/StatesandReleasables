@@ -9,7 +9,7 @@ state = {
 		add_core_of = SAU
 
 		victory_points = {
-			12758 2 
+			10835 2 
 		}
 		
 		buildings = {
@@ -19,7 +19,7 @@ state = {
 	}
 
 	provinces = {
-		2033 4981 5099 7934 10748 10835 12758 
+		2033 4981 7934 10835 
 	}
 	
 	buildings_max_level_factor = 1.000
